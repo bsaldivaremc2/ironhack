@@ -1,0 +1,120 @@
+supermarket,category,name,description,price,reference_price,reference_unit,insert_date
+mercadona-es,postres_y_yogures_yogures_liquidos,Bebida láctea sin lactosa de fresa Hacendado,Pack-4,1.4,2.19,kg,2020-12-23 00:00:00
+mercadona-es,bodega_licores,Ginebra 15 botanicals Blumara,Botella,10.75,15.36,L,2020-11-06 12:00:00
+mercadona-es,charcuteria_y_quesos_queso_untable_y_fresco,Queso fresco batido desnatado Hacendado 0% materia grasa,Tarrina,1.09,2.18,kg,2020-09-23 16:06:00
+carrefour-es,la_despensa_yogures_y_postres_yogures_desnatados,Yogur bífidus desnatado con lima y limón Danone Activia pack de 4 unidades de 120 g.,Pack 4x120 G.,2.08,4.33,kg,2020-10-10 00:00:00
+carrefour-es,la_despensa_helados_bombon,Helado After Dinner Magnum sin gluten 10 ud.,10 Ud.,4.6,0.46,ud,2020-10-15 00:00:00
+carrefour-es,limpieza_y_hogar_cuidado_de_la_ropa_detergentes,Detergente líquido Actilift Ariel 50 lavados.,,13.95,0.28,lavado,2021-01-24 00:00:00
+mercadona-es,carne_conejo_y_cordero,Chuletas de cordero paletilla,Bandeja,7.02,11.9,kg,2021-01-08 12:00:00
+dia-es,perfumeria_e_higiene_higiene_intima_aseo_intimo,PHARMALINE gel de ducha atopic bote 750 ml,,5.25,7.0,€/l.,2021-01-05 00:00:00
+mercadona-es,postres_y_yogures_bifidus,Bífidus con frutas Hacendado,Pack-8,1.9,1.9,kg,2020-08-31 04:00:00
+dia-es,perfumeria_e_higiene_higiene_bucal_dentifricos,ORAL B pasta dentífrica repair blanqueante tubo 75 ml,,3.99,53.2,€/l.,2020-12-11 12:00:00
+carrefour-es,parafarmacia_bebe_embarazo_y_lactancia,Aceite para el cuidado de la piel Bio-Oil 200 ml.,200 Ml.,18.0,9.0,100 ml,2020-11-23 00:00:00
+carrefour-es,la_despensa_alimentacion_vitaminas_y_complementos,CLA Prozis 90 ud.,90 Ud.,10.45,9.5,100 g,2020-10-19 15:00:00
+dia-es,alimentacion_conservas_pescado_mejillones,ISABEL mejillones en salsa vieira 13/18 piezas lata 69 grs,,1.85,26.81,€/Kg.,2021-01-07 00:00:00
+mercadona-es,azucar_caramelos_y_chocolate_chocolate,Chocolate extrafino negro Hacendado,Tableta,0.75,5.0,kg,2020-12-01 12:00:00
+carrefour-es,perfumeria_e_higiene_cosmetica_labios,Barra de labios color riche nº 630 L'Oréal 1 ud.,1 Ud.,12.5,12.5,ud,2020-11-20 12:00:00
+carrefour-es,la_despensa_lacteos_batidos_y_horchatas,Horchata de chufa Chufi Original botella 1 l.,1 L.,1.48,1.48,l,2020-07-28 04:00:00
+mercadona-es,limpieza_y_hogar_utensilios_de_limpieza_y_calzado,Reavivador de ante y nobuk Bosque Verde,Spray,3.35,13.4,L,2020-12-11 12:00:00
+carrefour-es,la_despensa_aperitivos_patatas_fritas,Patatas fritas lisas Carrefour 170 g.,,0.64,3.76,kg,2020-12-27 00:00:00
+carrefour-es,parafarmacia_higiene_bucal_colutorio,Colutorio diario flúor Fluor-Aid 500 ml.,,6.0,1.2,100ml,2020-12-18 00:00:00
+dia-es,perfumeria_e_higiene_depilacion_cera,DAEN cera depilatoria en perlas rosa mosqueta caja 200 gr,,4.59,22.95,€/Kg.,2020-10-18 12:00:00
+carrefour-es,la_despensa_alimentacion_salsas_y_tomate_frito,Tomate frito Orlando sin gluten y sin lactosa pack de 3 brik de 210 g.,,1.39,2.21,kg,2021-01-24 12:00:00
+carrefour-es,bebidas_vinos_todos_los_vinos,Vino D.O. Rueda blanco verdejo Dama del Lago 75 cl.,,2.8,2.8,ud,2021-02-05 12:00:00
+carrefour-es,perfumeria_e_higiene_cabello_champus,Champú cuidado clásico para cabello normal o graso Tresemmé 855 ml,855 Ml.,4.75,0.56,100 ml,2020-10-30 00:00:00
+mercadona-es,conservas_caldos_y_cremas_atun_y_otras_conservas_de_pescado,Chicharrillos en aceite de girasol Hacendado,Pack-2,1.5,12.5,kg,2020-12-30 00:00:00
+carrefour-es,bebidas_aguas_y_zumos_agua_con_sabor,Agua de coco ecológica Cocomi sin gluten brik 1 l.,,3.61,3.61,l,2021-01-20 00:00:00
+dia-es,perfumeria_e_higiene_cuidado_manos_jabon_de_manos_pastilla,DOVE jabón de manos pastilla 100 gr,,1.05,10.5,€/Kg.,2020-12-21 00:00:00
+carrefour-es,la_despensa_yogures_y_postres_otros_postres,Arroz con leche La Ermita de San Pedro sin gluten 270 g.,270 G.,1.87,6.93,kg,2020-12-03 00:00:00
+dia-es,bebe_higiene_champu,FRIZZ EASE champú liso perfecto con queratina tubo 250 ml,,5.99,23.96,€/l.,2020-08-27 16:00:00
+carrefour-es,la_despensa_dulce_y_desayuno_mermeladas_membrillos_y_compotas,Mermelada de melocotón categoría extra Carrefour sin gluten 650 g.,,1.36,2.09,kg,2021-01-15 00:00:00
+carrefour-es,bebidas_aguas_y_zumos_zumos_no_refrigerados,"Zumo de melocotón, manzana y uva Carrefour pack de 6 briks de 20 cl.",,0.87,0.72,l,2021-01-15 00:00:00
+carrefour-es,bebe_alimentacion_infantil_tarritos_y_platos_preparados,"Tarrito de melocotón, plátano y pera desde 6 meses ecológico Carrefour Baby Bio sin gluten 200 g.",200 G.,1.26,6.3,kg,2020-10-22 12:00:00
+carrefour-es,la_despensa_yogures_y_postres_yogures_liquidos,Yogur líquido con avena sin azúcar añadido Danone Danacol pack de 6 unidades de 100 g.,,3.69,6.15,kg,2021-01-13 12:00:00
+dia-es,perfumeria_e_higiene_depilacion_maquinillas_y_recambios,WILKINSON Sword extra beauty 2 maquinilla desechable mujer bolsa 5 uds,,2.79,0.4,€/ud.,2020-09-10 16:00:00
+mercadona-es,bodega_cerveza,Cerveza reserva,Botellín,0.66,2.0,L,2020-09-08 16:00:00
+dia-es,mascotas_accesorios_accesorios,DIXIE pipeta antiparasitaria para perros medianos blíster 3 uds,,12.99,9694.03,€/l.,2020-08-06 16:00:00
+mercadona-es,aceite_especias_y_salsas_otras_salsas,Tomate frito Hacendado,Pack-3,1.0,0.83,kg,2020-12-03 00:00:00
+carrefour-es,la_despensa_alimentacion_semillas,Semillas de chía San Blas 350 g.,350 G.,2.7,7.71,kg,2020-12-04 00:00:00
+carrefour-es,mascotas_pajaros_pienso_para_pajaros,Menú premium para canarios Vitakraft 1Kg,,2.5,2.5,ud,2020-12-22 13:00:00
+mercadona-es,panaderia_y_pasteleria_tartas_y_pasteles,Tarta infantil El Rey León congelada,,7.5,10.0,kg,2020-09-15 04:00:00
+carrefour-es,la_despensa_conservas_sopas_y_precocinados_conservas_de_vegetales,Acelgas Ybarra 425 g.,425 G.,1.18,2.78,kg,2020-12-14 00:00:00
+carrefour-es,bebidas_cerveza_todas_las_cervezas,Cerveza Cruzcampo Pilsen pack de 24 botellas de 25 cl.,,9.45,1.57,l,2021-01-05 00:00:00
+mercadona-es,marisco_y_pescado_pescado_en_bandeja,Escalopines de salmón sin espinas,Bandeja,8.0,20.0,kg,2020-08-17 16:00:00
+carrefour-es,bebidas_vinos_tinto,Vino D.O. Somontano tinto reserva Laus 75 cl.,75 Cl.,9.4,9.4,ud,2020-11-21 00:00:00
+carrefour-es,el_mercado_panaderia_bolleria_y_pasteleria_magdalenas_dulces_y_bollos,Berlina Fondant Donuts 204 g.,,1.99,9.75,kg,2021-01-25 12:00:00
+carrefour-es,la_despensa_dulce_y_desayuno_miel,Miel de azhar Mellarius 500 g.,500 G.,7.65,15.3,kg,2020-11-04 00:00:00
+carrefour-es,la_despensa_conservas_sopas_y_precocinados_bio_en_conservas_sopas_y_precocinados,Seitán tofu ecológico Carrefour Bio 250 g.,250 G.,2.29,9.16,kg,2020-11-10 12:00:00
+carrefour-es,la_despensa_conservas_sopas_y_precocinados_croquetas_y_rebozados,Anillas a la romana Carrefour 500 g.,500 G.,1.97,3.94,kg,2020-09-28 12:00:00
+mercadona-es,zumos_naranja,Bebida Florida Hacendado,Brick,1.0,0.5,L,2021-01-20 00:00:00
+carrefour-es,el_mercado_charcuteria_chorizo_lomo_y_otros,Chorizo casero extra sarta Palacios 250 g.,,3.46,13.84,kg,2021-01-27 00:00:00
+dia-es,desayuno_dulces_y_pan_pan_pan_aperitivo,DIA DELICIOUS mini tostas con pasas bolsa 125 gr,,1.65,13.2,€/Kg.,2020-07-22 16:00:00
+dia-es,bebidas_refrescos_refrigerados,SIMON LIFE naranja botella 1.5 l,,1.85,1.23,€/l.,2020-09-20 16:00:00
+carrefour-es,la_despensa_dulce_y_desayuno_chocolates_turrones_y_bombones,Barrita de chocolate con galleta y caramelo 5 ud.,290 G.,1.38,4.76,kg,2020-10-24 12:00:00
+dia-es,congelados_y_helados_platos_precocinados_otros_precocinados,DIA palitos de mozzarella bolsa 400 gr,,2.99,7.48,€/Kg.,2021-02-01 12:00:00
+carrefour-es,la_despensa_alimentacion_salsas_y_tomate_frito,Salsa picante Valentina envase 370 g.,370 G.,2.05,5.54,kg,2020-12-01 12:00:00
+mercadona-es,conservas_caldos_y_cremas_atun_y_otras_conservas_de_pescado,Atún en aceite de girasol Hacendado,Lata,5.3,8.15,kg,2020-09-18 16:00:00
+carrefour-es,perfumeria_e_higiene_cabello_champus,Champú reparador para cabellos dañados Total Repair 5 L'Oréal-Elvive 370 ml.,,3.76,1.02,100ml,2021-01-18 12:00:00
+carrefour-es,parafarmacia_cuidado_corporal_desodorantes,Desodorante fresh vaporizador Sebamed 75 ml.,75 Ml.,10.65,1.42,100 ml,2020-10-20 12:00:00
+carrefour-es,bebidas_refrescos_colas,Refresco de cola Carrefour zero sin cafeína lata 25 cl.,25 Cl.,0.24,,,2020-07-18 16:00:00
+dia-es,platos_preparados_pescado_pescado,GIRALDO bacalao al pil pil bandeja 300 gr,,3.99,13.3,€/Kg.,2020-09-21 04:00:00
+carrefour-es,limpieza_y_hogar_papeleria_colorear,Rotuladores Bic Kid Couleur Surtidos 18+6 uds,,5.9,0.33,ud,2021-01-24 00:00:00
+dia-es,drogueria_y_limpieza_celulosa_servilletas_de_papel,FOXY servilletas decoradas tamaño 40 x 40 cm paquete 45 uds,,1.59,1.59,€/ud.,2020-10-21 12:00:00
+mercadona-es,agua_y_refrescos_refresco_de_naranja_y_de_limon,Refresco lima limón Sprite,Pack-8,3.6,1.36,L,2021-02-08 00:00:00
+carrefour-es,bebidas_licores_y_cremas_licores_y_orujo,Aguardiente de orujo El Afilador 70 cl.,,10.1,14.43,l,2021-01-14 12:00:00
+carrefour-es,el_mercado_panaderia_bolleria_y_pasteleria_pan_de_molde_tostado_y_picos,Regañás con aceitunas y orégano Abuelobread sin gluten y sin lactosa 50 g.,50 G.,1.07,21.4,kg,2020-12-06 01:00:00
+carrefour-es,la_despensa_cestas_y_lotes_perfumeria_para_regalar,"Cesta baño Aromatherapy Gloss: Gel de ducha 300 ml, loción 300 ml, exfoliante 100 ml, bombas baño 300 g, vela 1 ud y esponja ",1 Ud.,16.5,16.5,ud,2020-11-29 01:00:00
+carrefour-es,bebidas_vinos_tinto,Vino tinto Solaz V.T.Castilla 3 l.,3 L.,9.4,3.13,ud,2020-12-15 00:00:00
+mercadona-es,aceite_especias_y_salsas_mayonesa_ketchup_y_mostaza,Mayonesa Hacendado,Bote,0.8,2.67,L,2020-07-24 04:00:00
+dia-es,perfumeria_e_higiene_cuidado_pies_crema,SCHOLL Gel activ plantillas uso diario para mujer talla 35.5 - 40.5,,18.89,18.89,€/ud.,2020-11-02 00:00:00
+dia-es,desayuno_dulces_y_pan_infusiones_menta_poleo,DIA infusión menta poleo estuche 25 bolsitas,,0.45,0.45,€/ud.,2020-11-12 00:00:00
+mercadona-es,cuidado_facial_y_corporal_higiene_intima,Gel de higiene íntima Deliplus,Bote,1.3,0.26,100 ml,2020-11-04 12:00:00
+mercadona-es,cuidado_del_cabello_peines_y_accesorios,Cepillo cabello térmico iónico Deliplus 25 mm,,3.0,3.0,ud,2020-11-02 12:00:00
+carrefour-es,la_despensa_dulce_y_desayuno_cremas_de_cacao_avellana_y_cacahuete,Crema de cacao con leche y avellanas Carrefour 750 g.,750 G.,2.39,3.19,kg,2020-10-10 00:00:00
+mercadona-es,congelados_helados,Helado sándwich de nata Hacendado,Caja,1.5,1.88,L,2020-10-31 00:00:00
+carrefour-es,la_despensa_dulce_y_desayuno_cremas_de_cacao_avellana_y_cacahuete,Crema de cacao con avellanas Nutella sin gluten 200 g.,,2.1,10.5,kg,2020-12-22 00:00:00
+dia-es,desayuno_dulces_y_pan_preparacion_de_postres_decoracion_y_complementos_para_postres,DR. OETKER aromatizante naranjas de valencia botella 35 ml,,3.89,111.14,€/l.,2020-09-07 04:00:00
+mercadona-es,bebe_alimentacion_infantil,Papilla zanahorias baby con ternera Hero baby +6 meses,Tarrito,0.99,4.21,kg,2020-08-27 16:00:00
+carrefour-es,el_mercado_quesos_rallados,Queso rallado cheddar Margui 200 g.,,1.68,8.4,kg,2021-01-11 00:00:00
+carrefour-es,la_despensa_alimentacion_aceites_y_vinagres,Aceite de oliva virgen extra De Nuestra Tierra D.O Sierra Mágina - Jaén 500 ml.,500 Ml.,4.99,9.98,l,2020-11-04 01:00:00
+dia-es,congelados_y_helados_helados_conos,CORNETTO Crush helado cono chocolate blanco XXL caja 4 uds 240 gr,,3.99,16.63,€/Kg.,2021-01-29 12:00:00
+carrefour-es,parafarmacia_cuidado_e_higiene_facial_cremas_faciales,Fluido facial hidratante matificante DermoPure Eucerin 50 ml.,50 Ml.,17.45,34.9,100 ml,2020-11-14 16:00:00
+dia-es,alimentacion_sal_especias_y_sazonadores_especias,DANI ajo molida frasco 55 gr,,1.45,26.36,€/Kg.,2020-09-27 12:00:00
+carrefour-es,bebidas_aguas_y_zumos_zumos_no_refrigerados,Zumo de naranja Don Simón sin pulpa brik 1 l.,1 L.,1.63,1.63,l,2020-10-10 12:00:00
+carrefour-es,bebidas_refrescos_isotonicas,Aquarius sabor limón lata 33 cl.,,0.78,2.36,l,2021-02-09 00:00:00
+mercadona-es,carne_aves_y_pollo,Cuartos traseros familiar de pollo,Bandeja,3.5,2.19,kg,2021-01-07 12:00:00
+dia-es,charcuteria_y_quesos_salchichas_salchichas,WUDY salchichas con queso envase 150 g,,0.95,6.33,€/Kg.,2020-08-11 16:00:00
+mercadona-es,postres_y_yogures_yogures_liquidos,Bebida láctea natural azucarada Hacendado,Botella,1.16,1.16,kg,2021-01-17 12:00:00
+carrefour-es,la_despensa_dulce_y_desayuno_mermeladas_membrillos_y_compotas,Mermelada de melocotón La Vieja Fábrica 350 g.,,1.99,5.69,kg,2021-01-21 12:00:00
+carrefour-es,perfumeria_e_higiene_boca_y_sonrisa_dentifricos,Dentífrico blanqueador Smile for good Colgate 75 ml.,75 Ml.,3.7,4.93,100 ml,2020-12-07 00:00:00
+dia-es,drogueria_y_limpieza_accesorios_limpieza_guantes,DIA guantes desechables de látex talla 8 bolsa 10 uds,,1.65,0.16,€/ud.,2020-11-26 00:00:00
+carrefour-es,el_mercado_charcuteria_foie_pates_y_sobrasadas,Bloque de hígado de pato blister Martiko 130 g.,130 G.,7.6,58.46,kg,2020-11-30 12:00:00
+carrefour-es,parafarmacia_nutricion_y_dietetica_tratamientos_naturales,Complemento alimenticio próstrata Sanon 60 cápsulas.,60 Cápsulas.,5.25,14.58,100 g,2020-11-20 12:00:00
+dia-es,bebidas_refrescos_refrigerados,STARBUCKS café capuccino vaso 220 ml,,1.69,7.68,€/l.,2020-11-25 12:00:00
+carrefour-es,perfumeria_e_higiene_cosmetica_rostro,Sérum ácido hialurónico revitalift filler L'Oréal 30 ml.,,21.75,72.5,100ml,2021-01-15 12:00:00
+carrefour-es,la_despensa_conservas_sopas_y_precocinados_caldos_sopas_y_pure,Caldo de pollo Carrefour sin gluten brik 1 l.,,0.82,0.82,l,2021-01-22 00:00:00
+carrefour-es,limpieza_y_hogar_cuidado_de_la_ropa_limpiadores_y_antical_para_lavadora,Pastillas antical para lavadoras 3 en 1 en Calgon 45 ud.,45 Ud.,18.7,0.42,lavado,2020-11-09 00:00:00
+carrefour-es,perfumeria_e_higiene_cosmetica_rostro,Maletin de maquillaje Camouflage Perfect Traveller Magic Studio IDC 1 ud.,1 Ud.,14.0,14.0,ud,2020-12-09 00:00:00
+dia-es,desayuno_dulces_y_pan_galletas_rellenas,FILIPINOS roscos de galleta con chocolate blanco paquete 135 grs,,1.0,7.41,€/Kg.,2021-01-26 13:00:00
+carrefour-es,la_despensa_dulce_y_desayuno_cafes,Café espresso en cápsulas Nescafé Dolce Gusto 16 unidades de 6 g.,16 Ud.,4.25,44.27,kg,2020-11-01 00:00:00
+carrefour-es,la_despensa_dulce_y_desayuno_cafes,"Café sontuoso en cápsulas L'Or Espresso compatible con Nespresso 20 unidades de 5,2 g.",,6.35,61.06,kg,2021-01-03 00:00:00
+dia-es,drogueria_y_limpieza_accesorios_limpieza_fregonas,CISNE fregona tiras microfibra bolsa 1 ud,,4.59,4.59,€/ud.,2020-09-22 14:00:00
+carrefour-es,limpieza_y_hogar_cuidado_de_la_ropa_detergentes,Detergente en polvo con jabón de Marsella Carrefour 50 cacitos,,4.9,0.1,lavado,2020-12-26 12:00:00
+dia-es,alimentacion_legumbres_garbanzos,DIA VEGECAMPO garbanzo pedrosillano paquete 1 Kg,,2.39,2.39,€/Kg.,2020-12-31 00:00:00
+carrefour-es,la_despensa_cestas_y_lotes_cestas_de_navidad,Lote de Navidad nº 30,1 Ud.,32.0,32.0,ud,2020-10-30 12:00:00
+carrefour-es,la_despensa_alimentacion_especias_y_sazonadores,Canela en rama Carmencita 5 g.,5 G.,0.66,132.0,kg,2020-12-12 00:00:00
+dia-es,desayuno_dulces_y_pan_cafe_en_grano,DIA café natural en grano paquete 500 gr,,3.49,6.98,€/Kg.,2020-11-01 00:00:00
+mercadona-es,fruta_y_verdura_fruta,Manzana reineta,Pieza,0.46,2.19,kg,2020-11-04 00:00:00
+mercadona-es,aperitivos_aceitunas_y_encurtidos,Aceitunas rellenas de pimiento Hacendado,Pack-3,1.6,10.67,kg,2020-09-22 14:00:00
+carrefour-es,el_mercado_la_cocina_de_carrefour_sushi_del_dia,Nigiri de salmón Sushi Daily,6 Pzas.,8.7,8.7,ud,2020-11-19 00:00:00
+dia-es,bebidas_vinos_tintos_castillala_mancha,LOS MOLINOS vino tinto crianza DO Valdepeñas botella 75 cl,,2.25,3.0,€/l.,2020-12-21 00:00:00
+carrefour-es,limpieza_y_hogar_bazar_automovil,Alfombra moqueta Lemans Dream Car - 4 piezas con talonera termosellada,,6.95,6.95,ud,2021-01-06 12:00:00
+dia-es,lacteos_y_huevos_yogures_yogur_sabores,DIA yogur fresa-plátano pack 8 unidades 125 g,,0.99,0.99,€/Kg.,2020-11-08 00:00:00
+carrefour-es,el_mercado_panaderia_bolleria_y_pasteleria_pan_de_molde_tostado_y_picos,Pan de molde sin corteza Carrefour 820 g.,,1.64,2.0,kg,2020-12-20 01:00:00
+dia-es,desayuno_dulces_y_pan_infusiones_manzanilla,DIA manzanilla estuche 25 bolsitas,,0.39,0.39,€/ud.,2020-11-19 00:00:00
+carrefour-es,bebidas_aguas_y_zumos_zumos_no_refrigerados,Néctar de piña Juver Selección botella 85 cl.,85 Cl.,2.0,2.35,l,2020-11-04 13:00:00
+carrefour-es,la_despensa_dulce_y_desayuno_chocolates_turrones_y_bombones,Chocolate con leche Milka pack de 4 tabletas de 100 g.,,2.82,7.05,kg,2021-01-28 00:00:00
+carrefour-es,limpieza_y_hogar_productos_para_cocina_aditivos_y_limpiamaquinas,Limpia máquinas duo Somat 3 ud.,,2.5,0.83,ud,2021-01-05 12:00:00
+dia-es,perfumeria_e_higiene_limpieza_facial_leche_y_tonicos_limpiadores,GARNIER Skinactive gel micelar todo en uno piel sensible dosificador 200 ml,,4.19,20.95,€/l.,2020-09-11 16:00:00
+carrefour-es,la_despensa_alimentacion_vitaminas_y_complementos,Complemento alimenticio Lecitina de soja Vive Plus 250 g.,,4.2,16.8,kg,2021-01-04 00:00:00
+mercadona-es,limpieza_y_hogar_menaje_y_conservacion_de_alimentos,Film transparente Bosque Verde,Caja,0.95,0.01,m,2020-09-15 04:00:00
