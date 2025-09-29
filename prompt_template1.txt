@@ -1,0 +1,4 @@
+extrae las palabras clave de esta oferta de trabajo:
+{input1}
+Y genera una carta de presentación sabiendo que este es mi cv:
+{input2}

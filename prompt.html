@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Prompt Variable Merger</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 30px;
+      background: #f9f9f9;
+    }
+    h1 {
+      font-size: 20px;
+      margin-bottom: 10px;
+    }
+    #fileInput {
+      margin-bottom: 20px;
+    }
+    #editor, #result {
+      background: white;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      padding: 15px;
+      margin-top: 10px;
+      white-space: pre-wrap;
+      line-height: 1.5em;
+    }
+    input[type="text"] {
+      border: 1px solid #aaa;
+      border-radius: 4px;
+      padding: 3px 6px;
+      margin: 0 2px;
+      min-width: 80px;
+    }
+    button {
+      margin-top: 15px;
+      padding: 8px 14px;
+      border: none;
+      border-radius: 6px;
+      background: #007bff;
+      color: white;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #0056b3;
+    }
+    details {
+      margin-top: 15px;
+    }
+    summary {
+      cursor: pointer;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>Prompt Variable Merger</h1>
+  <input type="file" id="fileInput" accept=".txt">
+  <div id="editor"></div>
+  <button id="mergeBtn" style="display:none;">Merge</button>
+  <details id="resultContainer" style="display:none;">
+    <summary>Show Final Text</summary>
+    <div id="result"></div>
+  </details>
+
+  <script>
+    const fileInput = document.getElementById("fileInput");
+    const editor = document.getElementById("editor");
+    const mergeBtn = document.getElementById("mergeBtn");
+    const resultContainer = document.getElementById("resultContainer");
+    const result = document.getElementById("result");
+
+    let originalText = "";
+
+    fileInput.addEventListener("change", () => {
+      const file = fileInput.files[0];
+      if (!file) return;
+      const reader = new FileReader();
+      reader.onload = e => {
+        originalText = e.target.result;
+        renderEditor(originalText);
+      };
+      reader.readAsText(file);
+    });
+
+    function renderEditor(text) {
+      // Replace {variable} with <input>
+      const html = text.replace(/\{([^}]+)\}/g, (_, name) => {
+        return `<input type="text" placeholder="${name.trim()}">`;
+      });
+      editor.innerHTML = html;
+      mergeBtn.style.display = "inline-block";
+      resultContainer.style.display = "none";
+      result.innerHTML = "";
+    }
+
+    mergeBtn.addEventListener("click", () => {
+      const inputs = editor.querySelectorAll("input");
+      let mergedText = originalText;
+      inputs.forEach(input => {
+        const placeholder = "{" + input.placeholder + "}";
+        mergedText = mergedText.replace(placeholder, input.value);
+      });
+      result.textContent = mergedText;
+      resultContainer.style.display = "block";
+    });
+  </script>
+</body>
+</html>
