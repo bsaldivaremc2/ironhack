@@ -1,0 +1,5 @@
+Tengo un dataset de esta forma:
+{dataset}
+
+dame codigo en python que responda cada una de estas preguntas en forma de graficos:
+{preguntas}
