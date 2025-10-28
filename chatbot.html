@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Make.com Chatbot with Memory</title>
+  <style>
+    body { 
+      font-family: Arial, sans-serif; 
+      background: #f8f9fa; 
+      padding: 20px; 
+      max-width: 600px; 
+      margin: auto; 
+    }
+    h2 { text-align: center; }
+    #chat {
+      border: 1px solid #ccc; 
+      border-radius: 8px;
+      background: white;
+      padding: 10px; 
+      height: 300px; 
+      overflow-y: auto;
+      margin-bottom: 10px;
+    }
+    #setupForm, #chatControls {
+      display: flex; 
+      flex-direction: column; 
+      gap: 10px;
+      margin-bottom: 20px;
+    }
+    input, button {
+      padding: 8px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+      font-size: 14px;
+    }
+    button {
+      cursor: pointer;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      transition: background 0.2s;
+    }
+    button:hover { background-color: #0056b3; }
+    #chat p { margin: 5px 0; }
+    #chat p strong { color: #007bff; }
+    #chatControlsRow {
+      display: flex;
+      gap: 10px;
+    }
+    #userInput {
+      flex-grow: 1;
+    }
+  </style>
+</head>
+<body>
+  <h2>🤖 Make.com AI Chatbot</h2>
+
+  <!-- Step 1: Setup Form -->
+  <form id="setupForm">
+    <label>
+      Make Webhook URL:
+      <input type="text" id="webhookURL" placeholder="https://hook.eu1.make.com/your-webhook-id" required />
+    </label>
+    <label>
+      Secret (optional):
+      <input type="password" id="secret" placeholder="Optional secret key" />
+    </label>
+    <button type="submit">Save Settings</button>
+  </form>
+
+  <!-- Step 2: Chat Interface -->
+  <div id="chat"></div>
+
+  <div id="chatControls" style="display:none;">
+    <div id="chatControlsRow">
+      <input id="userInput" placeholder="Type your message..." />
+      <button id="sendBtn">Send</button>
+    </div>
+    <button id="newChatBtn" style="background-color: #6c757d;">New Chat</button>
+  </div>
+
+  <script>
+    const chatDiv = document.getElementById('chat');
+    const setupForm = document.getElementById('setupForm');
+    const chatControls = document.getElementById('chatControls');
+    const userInput = document.getElementById('userInput');
+    const sendBtn = document.getElementById('sendBtn');
+    const newChatBtn = document.getElementById('newChatBtn');
+
+    let webhookURL = '';
+    let secret = '';
+    let chatHistory = [];
+
+    const SYSTEM_GREETING = "Customer Support: Hello, how can I serve you?";
+
+    // Initialize new chat
+    function initChat() {
+      chatHistory = [SYSTEM_GREETING];
+      chatDiv.innerHTML = '';
+      addMessage('Customer Support', 'Hello, how can I serve you?');
+    }
+
+    // Handle setup form
+    setupForm.addEventListener('submit', e => {
+      e.preventDefault();
+      webhookURL = document.getElementById('webhookURL').value.trim();
+      secret = document.getElementById('secret').value.trim();
+
+      if (!webhookURL.startsWith('https://hook.')) {
+        alert('Please enter a valid Make.com webhook URL.');
+        return;
+      }
+
+      setupForm.style.display = 'none';
+      chatControls.style.display = 'flex';
+      initChat();
+    });
+
+    // Handle "Send" button
+    sendBtn.addEventListener('click', sendMessage);
+    userInput.addEventListener('keypress', e => {
+      if (e.key === 'Enter') sendMessage();
+    });
+
+    // Handle "New Chat" button
+    newChatBtn.addEventListener('click', () => {
+      initChat();
+      addMessage('System', '🆕 New chat started.');
+    });
+
+    // Send message to Make.com
+    async function sendMessage() {
+      const message = userInput.value.trim();
+      if (!message) return;
+
+      addMessage('User', message);
+      userInput.value = '';
+
+      // Update chat history in the desired format
+      chatHistory.push(`User: ${message}`);
+
+      const formattedConversation = chatHistory.join('\n');
+
+      try {
+        const headers = { 'Content-Type': 'application/json' };
+        if (secret) headers['X-Secret-Key'] = secret;
+
+        const response = await fetch(webhookURL, {
+          method: 'POST',
+          headers,
+          body: JSON.stringify({ message: formattedConversation })
+        });
+
+        if (!response.ok) {
+          throw new Error(`Server returned ${response.status}`);
+        }
+
+        const data = await response.json();
+        const reply = data.reply || JSON.stringify(data);
+
+        //addMessage('Customer Support', reply);
+        //chatHistory.push(`Customer Support: ${reply}`);
+        // Format AI reply: render newlines and bold properly
+        const replyText = reply
+          .replace(/\\n/g, '<br>')
+          .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+
+        addMessage('Customer Support', replyText);
+        chatHistory.push(`Customer Support: ${reply}`); // keep raw text in history
+        //Added info till here
+
+      } catch (err) {
+        addMessage('Error', err.message);
+      }
+    }
+
+    // Utility: add message to the chat window
+    function addMessage(sender, text) {
+      const msg = document.createElement('p');
+      msg.innerHTML = `<strong>${sender}:</strong> ${text}`;
+      chatDiv.appendChild(msg);
+      chatDiv.scrollTop = chatDiv.scrollHeight;
+    }
+  </script>
+</body>
+</html>
