@@ -1,0 +1,501 @@
+﻿ID_Venta,Fecha,Región,País,Ciudad,Categoría,Producto,Canal,Vendedor,Unidades,Precio_Unitario,Descuento_%,Costo_Unitario,Satisfacción,Método_Pago,Año,Mes,Día_Semana,Latitud,Longitud,Ventas_Totales,Beneficio
+1,2023-12-28,América,EEUU,Ciudad_18,Electrónica,Smartphone,Online,Vendedor_12,40,205.01,6.37,105.44,3,Efectivo,2023,Julio,Domingo,49.482,89.8791,7678.03452,3460.43452
+2,2021-01-06,África,Nigeria,Ciudad_17,Electrónica,Televisor,Tienda,Vendedor_8,41,726.66,12.71,620.3,3,Transferencia,2021,Abril,Martes,-17.4857,-72.6605,26006.362073999997,574.0620739999977
+3,2022-08-21,Asia,Japón,Ciudad_30,Juguetes,Auto de juguete,Distribuidor,Vendedor_9,47,632.85,10.61,564.75,8,Tarjeta,2022,Diciembre,Sábado,3.0356,-1.9972,26588.116905000003,44.86690500000259
+4,2021-08-10,África,Nigeria,Ciudad_27,Juguetes,Auto de juguete,Tienda,Vendedor_10,72,580.4,14.6,341.7,6,Transferencia,2021,Octubre,Miércoles,-19.6703,59.8518,35687.6352,11085.2352
+5,2023-10-21,África,Nigeria,Ciudad_22,Ropa,Zapatos,Distribuidor,Vendedor_6,80,706.25,23.53,449.59,1,Tarjeta,2023,Febrero,Lunes,-45.109,18.3401,43205.549999999996,7238.3499999999985
+6,2021-01-03,América,México,Ciudad_2,Hogar,Mesa,Online,Vendedor_15,8,341.22,21.51,174.96,6,Efectivo,2021,Abril,Sábado,-38.4777,-86.5067,2142.588624,742.9086239999999
+7,2021-10-21,América,Brasil,Ciudad_11,Hogar,Mesa,Online,Vendedor_12,24,420.86,0.06,309.66,4,Tarjeta,2021,Enero,Miércoles,24.246,-77.377,10094.579615999999,2662.739615999999
+8,2021-02-22,África,Sudáfrica,Ciudad_1,Hogar,Cama,Distribuidor,Vendedor_13,78,593.26,27.06,475.95,10,Transferencia,2021,Agosto,Martes,18.7395,67.6803,33752.459832,-3371.640167999998
+9,2023-09-05,África,Egipto,Ciudad_5,Alimentos,Cereal,Tienda,Vendedor_9,42,119.34,28.79,72.04,10,Efectivo,2023,Enero,Sábado,17.0561,-49.4066,3569.2445879999996,543.5645879999993
+10,2023-05-03,Europa,Francia,Ciudad_26,Electrónica,Auriculares,Distribuidor,Vendedor_4,66,733.54,21.24,375.98,4,Tarjeta,2023,Agosto,Lunes,9.1237,24.8328,38130.582864,13315.902864000003
+11,2021-02-01,Asia,India,Ciudad_7,Juguetes,Puzzle,Distribuidor,Vendedor_13,1,125.14,11.54,70.59,9,Transferencia,2021,Abril,Lunes,-31.824,-53.6949,110.69884400000001,40.108844000000005
+12,2023-10-02,América,Argentina,Ciudad_19,Juguetes,Puzzle,Distribuidor,Vendedor_11,49,173.9,27.2,153.94,7,Efectivo,2023,Enero,Viernes,38.1437,85.7761,6203.3608,-1339.699199999999
+13,2021-02-04,Europa,España,Ciudad_22,Juguetes,Puzzle,Online,Vendedor_9,16,490.36,8.69,438.09,6,Efectivo,2021,Noviembre,Jueves,-19.4078,68.1223,7163.963456,154.5234560000008
+14,2022-02-08,América,Argentina,Ciudad_19,Electrónica,Auriculares,Distribuidor,Vendedor_8,60,170.56,17.66,90.31,5,Tarjeta,2022,Mayo,Sábado,25.4984,-61.5282,8426.34624,3007.7462400000004
+15,2022-02-01,Asia,Corea del Sur,Ciudad_2,Juguetes,Pelota,Tienda,Vendedor_7,16,207.06,3.69,154.59,6,Transferencia,2022,Abril,Sábado,11.8182,-5.9251,3190.711776,717.271776
+16,2023-04-06,África,Nigeria,Ciudad_14,Hogar,Cama,Online,Vendedor_13,48,218.81,15.79,151.2,7,Efectivo,2023,Mayo,Jueves,-1.1211,-48.1189,8844.475248000002,1586.875248000003
+17,2022-12-22,América,EEUU,Ciudad_6,Electrónica,Smartphone,Online,Vendedor_9,19,646.01,26.95,529.36,1,Tarjeta,2022,Julio,Martes,38.5157,-34.1171,8966.295795,-1091.5442050000001
+18,2023-06-26,Asia,China,Ciudad_15,Ropa,Zapatos,Online,Vendedor_6,67,202.64,15.42,115.06,3,Efectivo,2023,Abril,Jueves,26.4338,45.7849,11483.325104,3774.305103999999
+19,2023-09-11,África,Sudáfrica,Ciudad_3,Alimentos,Cereal,Distribuidor,Vendedor_3,51,410.59,14.47,271.8,7,Transferencia,2023,Agosto,Miércoles,21.326,82.3937,17910.058977,4048.2589769999995
+20,2021-07-07,Europa,Francia,Ciudad_29,Juguetes,Auto de juguete,Distribuidor,Vendedor_15,2,253.78,15.71,218.93,8,Transferencia,2021,Febrero,Lunes,22.9464,21.2888,427.822324,-10.037676000000033
+21,2023-05-17,Europa,España,Ciudad_7,Juguetes,Pelota,Tienda,Vendedor_12,76,466.28,14.69,347.27,1,Transferencia,2023,Julio,Jueves,6.6095,-6.5826,30231.543567999997,3839.0235680000005
+22,2022-01-03,América,Brasil,Ciudad_25,Electrónica,Auriculares,Distribuidor,Vendedor_14,9,604.96,14.55,465.77,6,Efectivo,2022,Septiembre,Jueves,11.3484,-30.4728,4652.444880000001,460.51488000000063
+23,2022-01-18,África,Nigeria,Ciudad_7,Ropa,Camisa,Online,Vendedor_8,49,793.88,20.27,446.43,5,Transferencia,2022,Enero,Miércoles,35.0034,12.8613,31015.065676000002,9139.995676000002
+24,2023-02-17,Asia,Corea del Sur,Ciudad_17,Ropa,Zapatos,Distribuidor,Vendedor_9,39,65.99,24.73,41.02,5,Transferencia,2023,Julio,Viernes,13.3314,-21.7748,1937.156247,337.3762469999997
+25,2022-06-12,Europa,España,Ciudad_6,Hogar,Silla,Online,Vendedor_8,72,189.53,8.32,167.37,2,Transferencia,2022,Junio,Martes,-42.2614,-8.524,12510.799488,460.15948800000115
+26,2021-11-28,África,Marruecos,Ciudad_26,Hogar,Cama,Online,Vendedor_15,57,792.63,6.48,482.88,3,Tarjeta,2021,Agosto,Martes,-12.6212,-28.7804,42252.251831999994,14728.091831999995
+27,2023-07-25,Europa,Francia,Ciudad_21,Hogar,Cama,Tienda,Vendedor_13,44,228.19,21.6,168.41,10,Transferencia,2023,Junio,Sábado,21.3821,40.9016,7871.642240000001,461.6022400000011
+28,2022-01-04,Asia,China,Ciudad_30,Hogar,Lámpara,Tienda,Vendedor_8,23,210.05,27.04,142.06,2,Tarjeta,2022,Julio,Martes,-14.922,-28.165,3524.8070400000006,257.4270400000005
+29,2022-02-05,África,Sudáfrica,Ciudad_5,Alimentos,Queso,Online,Vendedor_14,77,314.98,8.54,237.85,3,Efectivo,2022,Abril,Jueves,28.388,-33.7337,22182.214516,3867.7645159999993
+30,2023-03-06,África,Nigeria,Ciudad_25,Hogar,Silla,Tienda,Vendedor_4,32,567.33,21.84,294.3,6,Transferencia,2023,Enero,Domingo,35.0824,-14.0445,14189.604096000001,4772.004096000001
+31,2023-10-20,Asia,Japón,Ciudad_22,Hogar,Silla,Tienda,Vendedor_11,79,766.12,6.83,399.65,8,Efectivo,2023,Junio,Viernes,-40.9453,2.0855,56389.726316,24817.376316
+32,2021-03-03,África,Marruecos,Ciudad_23,Juguetes,Pelota,Tienda,Vendedor_7,68,364.85,26.37,248.29,10,Tarjeta,2021,Noviembre,Viernes,-10.7382,-8.4614,18267.45574,1383.73574
+33,2022-08-05,América,Brasil,Ciudad_17,Electrónica,Smartphone,Online,Vendedor_3,4,121.75,20.09,65.35,8,Tarjeta,2022,Abril,Lunes,5.8767,-72.2733,389.1617,127.76170000000002
+34,2021-08-07,América,EEUU,Ciudad_21,Ropa,Camisa,Distribuidor,Vendedor_6,68,701.03,4.2,488.51,3,Transferencia,2021,Abril,Lunes,29.7944,23.2073,45667.89832,12449.21832
+35,2021-04-10,África,Nigeria,Ciudad_5,Alimentos,Cereal,Distribuidor,Vendedor_9,65,625.85,20.26,440.84,3,Transferencia,2021,Marzo,Jueves,-15.9362,-71.2554,32438.43135,3783.8313500000004
+36,2022-12-18,África,Nigeria,Ciudad_18,Hogar,Silla,Distribuidor,Vendedor_2,61,221.54,15.82,154.1,5,Tarjeta,2022,Diciembre,Martes,15.823,-93.877,11376.034692,1975.934691999999
+37,2021-04-27,Europa,Francia,Ciudad_23,Ropa,Zapatos,Distribuidor,Vendedor_1,18,502.22,22.27,392.26,8,Transferencia,2021,Diciembre,Domingo,-35.5533,-37.4929,7026.760908,-33.91909200000009
+38,2022-02-14,Europa,España,Ciudad_2,Ropa,Pantalón,Online,Vendedor_11,60,505.51,28.89,284.61,6,Transferencia,2022,Septiembre,Viernes,39.8045,33.5535,21568.08966,4491.489659999999
+39,2021-03-23,África,Nigeria,Ciudad_28,Electrónica,Smartphone,Online,Vendedor_4,54,269.91,16.14,177.32,9,Transferencia,2021,Julio,Domingo,-32.9188,74.8937,12222.712404000002,2647.432404000003
+40,2022-03-12,África,Nigeria,Ciudad_8,Juguetes,Auto de juguete,Distribuidor,Vendedor_5,79,156.72,14.28,90.4,8,Transferencia,2022,Mayo,Lunes,10.5073,72.0356,10612.890335999999,3471.290335999998
+41,2023-08-03,Europa,Alemania,Ciudad_1,Ropa,Chaqueta,Online,Vendedor_1,4,162.34,9.39,101.88,5,Transferencia,2023,Junio,Domingo,-8.0648,66.6983,588.385096,180.865096
+42,2021-04-05,Asia,Japón,Ciudad_28,Ropa,Pantalón,Online,Vendedor_10,49,578.27,18.99,392.58,5,Transferencia,2021,Agosto,Jueves,6.4909,69.8017,22954.369823,3717.9498230000027
+43,2023-10-24,Europa,Francia,Ciudad_15,Alimentos,Queso,Distribuidor,Vendedor_10,51,421.57,7.04,246.71,1,Efectivo,2023,Abril,Martes,-10.8762,-12.7768,19986.465072,7404.255071999998
+44,2023-01-13,África,Marruecos,Ciudad_17,Juguetes,Auto de juguete,Tienda,Vendedor_4,31,183.14,15.98,151.45,2,Transferencia,2023,Noviembre,Lunes,20.7055,-19.6945,4770.101068,75.15106800000012
+45,2021-01-05,Asia,China,Ciudad_8,Hogar,Lámpara,Distribuidor,Vendedor_13,64,466.8,21.14,370.55,4,Efectivo,2021,Enero,Jueves,14.8902,-58.7015,23559.58272,-155.6172800000022
+46,2022-05-16,América,México,Ciudad_25,Hogar,Silla,Distribuidor,Vendedor_9,70,73.85,20.1,49.85,3,Tarjeta,2022,Septiembre,Sábado,-45.2963,11.2591,4130.4304999999995,640.9304999999995
+47,2023-01-02,Asia,China,Ciudad_1,Alimentos,Queso,Online,Vendedor_10,45,293.91,28.42,221.71,8,Efectivo,2023,Octubre,Martes,-15.9608,67.5568,9467.13501,-509.81499000000076
+48,2022-05-01,Asia,China,Ciudad_8,Electrónica,Auriculares,Tienda,Vendedor_7,31,633.51,4.88,328.15,10,Transferencia,2022,Noviembre,Martes,40.4351,-91.9577,18680.436072,8507.786072
+49,2023-09-28,Europa,Italia,Ciudad_2,Electrónica,Smartphone,Online,Vendedor_15,77,730.58,7.28,526.06,2,Tarjeta,2023,Julio,Lunes,-21.8981,30.3288,52159.32075200001,11652.700752000012
+50,2022-11-15,África,Marruecos,Ciudad_5,Ropa,Pantalón,Tienda,Vendedor_3,59,589.49,1.58,520.67,3,Transferencia,2022,Julio,Viernes,-33.7607,18.904,34230.387422,3510.857422000001
+51,2022-07-09,Asia,Japón,Ciudad_21,Electrónica,Smartphone,Distribuidor,Vendedor_3,20,512.08,17.09,307.33,8,Efectivo,2022,Abril,Jueves,27.4824,-29.3573,8491.31056,2344.7105600000004
+52,2022-06-17,América,Argentina,Ciudad_22,Alimentos,Pan,Tienda,Vendedor_5,4,778.31,16.44,566.27,5,Tarjeta,2022,Diciembre,Jueves,34.706,-7.6552,2601.423344,336.3433439999999
+53,2022-10-17,Europa,Francia,Ciudad_27,Juguetes,Puzzle,Tienda,Vendedor_7,15,406.77,26.94,324.93,7,Tarjeta,2022,Octubre,Jueves,-4.538,92.6395,4457.792429999999,-416.1575700000012
+54,2022-03-14,África,Marruecos,Ciudad_30,Alimentos,Queso,Distribuidor,Vendedor_6,22,121.79,19.94,92.52,7,Efectivo,2022,Diciembre,Sábado,-23.6026,-37.4813,2145.111628,109.67162800000028
+55,2022-12-13,África,Nigeria,Ciudad_11,Hogar,Lámpara,Distribuidor,Vendedor_1,52,475.89,6.18,257.24,1,Efectivo,2022,Octubre,Miércoles,-32.1369,66.7025,23216.959896,9840.479896
+56,2023-06-13,América,Argentina,Ciudad_1,Juguetes,Pelota,Tienda,Vendedor_15,13,484.59,10.34,301.03,3,Transferencia,2023,Enero,Lunes,-2.1594,79.5161,5648.284122,1734.8941220000006
+57,2022-04-19,África,Egipto,Ciudad_12,Ropa,Chaqueta,Online,Vendedor_6,39,625.87,11.74,462.66,8,Efectivo,2022,Febrero,Viernes,-13.3025,-27.6627,21543.321618,3499.581618
+58,2021-08-24,Europa,Francia,Ciudad_7,Alimentos,Leche,Online,Vendedor_10,60,194.33,25.88,142.83,9,Tarjeta,2021,Julio,Domingo,-13.8216,-64.0237,8642.243760000001,72.44376000000011
+59,2021-05-13,Europa,Italia,Ciudad_12,Alimentos,Pan,Distribuidor,Vendedor_3,27,794.65,6.52,594.77,8,Transferencia,2021,Diciembre,Martes,11.6843,-95.649,20056.648139999998,3997.8581399999985
+60,2021-08-18,América,Brasil,Ciudad_17,Electrónica,Smartphone,Tienda,Vendedor_7,16,65.52,13.88,36.5,8,Transferencia,2021,Mayo,Martes,-42.5288,61.5603,902.8131839999999,318.81318399999986
+61,2022-01-05,Asia,India,Ciudad_12,Electrónica,Laptop,Online,Vendedor_7,17,153.14,9.24,133.24,1,Transferencia,2022,Agosto,Domingo,48.3033,70.6928,2362.8276879999994,97.74768799999947
+62,2023-03-14,Asia,China,Ciudad_18,Ropa,Pantalón,Online,Vendedor_1,42,99.59,3.11,80.67,9,Transferencia,2023,Marzo,Miércoles,23.2584,-60.7993,4052.6955419999995,664.5555419999996
+63,2022-05-10,América,EEUU,Ciudad_24,Hogar,Mesa,Distribuidor,Vendedor_2,70,603.81,4.11,480.15,7,Transferencia,2022,Agosto,Sábado,-43.6297,25.0731,40529.538629999995,6919.0386299999955
+64,2021-12-25,América,EEUU,Ciudad_3,Electrónica,Laptop,Tienda,Vendedor_15,20,759.07,23.28,585.51,9,Tarjeta,2021,Abril,Viernes,24.557,61.0093,11647.170080000002,-63.02991999999904
+65,2021-11-28,Europa,Italia,Ciudad_13,Ropa,Zapatos,Distribuidor,Vendedor_11,5,667.7,10.03,581.03,9,Efectivo,2021,Septiembre,Lunes,-45.7036,36.9203,3003.6484499999997,98.49845000000005
+66,2023-12-03,Europa,Italia,Ciudad_17,Ropa,Chaqueta,Distribuidor,Vendedor_9,16,73.46,25.02,57.9,3,Tarjeta,2023,Octubre,Sábado,3.7122,-37.2638,881.2849279999999,-45.115072000000055
+67,2023-09-08,Europa,Francia,Ciudad_5,Juguetes,Auto de juguete,Tienda,Vendedor_2,41,189.49,10.33,124.58,10,Tarjeta,2023,Mayo,Miércoles,-16.2196,-54.6676,6966.543003000001,1858.763003000001
+68,2021-07-01,Europa,Francia,Ciudad_27,Ropa,Zapatos,Online,Vendedor_2,39,612.29,13.91,333.2,1,Transferencia,2021,Enero,Martes,-30.7308,71.4076,20557.697978999997,7562.897978999998
+69,2023-08-28,Asia,Japón,Ciudad_13,Ropa,Chaqueta,Tienda,Vendedor_13,33,457.81,28.95,402.25,5,Efectivo,2023,Julio,Jueves,34.2286,53.2972,10734.042165,-2540.2078349999992
+70,2023-02-27,Europa,Italia,Ciudad_17,Hogar,Cama,Distribuidor,Vendedor_7,74,552.61,16.18,400.82,5,Efectivo,2023,Agosto,Sábado,34.8599,8.2138,34276.629948,4615.949948000001
+71,2022-02-10,Asia,Japón,Ciudad_17,Ropa,Chaqueta,Online,Vendedor_12,29,787.09,13.0,699.47,4,Transferencia,2022,Marzo,Domingo,31.4104,-71.7186,19858.2807,-426.3493000000017
+72,2021-04-28,América,Brasil,Ciudad_27,Ropa,Pantalón,Distribuidor,Vendedor_1,56,451.78,26.93,324.63,5,Tarjeta,2021,Diciembre,Jueves,43.4971,14.8094,18486.476176,307.1961760000013
+73,2022-06-10,Europa,Alemania,Ciudad_2,Alimentos,Queso,Distribuidor,Vendedor_5,21,25.31,18.6,16.71,1,Tarjeta,2022,Abril,Viernes,23.2534,81.084,432.64914,81.73913999999996
+74,2021-01-14,África,Nigeria,Ciudad_23,Ropa,Zapatos,Online,Vendedor_4,48,209.82,22.31,127.09,9,Efectivo,2021,Diciembre,Miércoles,15.2996,-63.306,7824.439584000001,1724.119584000001
+75,2023-01-12,África,Egipto,Ciudad_19,Juguetes,Puzzle,Online,Vendedor_11,23,611.66,1.64,525.59,2,Transferencia,2023,Marzo,Lunes,-28.603,35.9857,13837.461847999999,1748.8918479999975
+76,2021-05-04,África,Marruecos,Ciudad_30,Alimentos,Queso,Online,Vendedor_14,1,66.21,0.7,47.14,9,Tarjeta,2021,Enero,Miércoles,-48.1904,17.1986,65.74652999999999,18.606529999999992
+77,2022-01-19,Asia,India,Ciudad_8,Electrónica,Auriculares,Distribuidor,Vendedor_15,24,332.21,7.09,283.87,10,Transferencia,2022,Septiembre,Domingo,-22.3383,-52.079,7407.751463999999,594.8714639999989
+78,2022-11-07,América,México,Ciudad_8,Ropa,Pantalón,Distribuidor,Vendedor_15,1,140.64,3.7,81.58,4,Efectivo,2022,Diciembre,Lunes,13.4127,14.0099,135.43632,53.85632
+79,2023-09-25,América,Brasil,Ciudad_22,Juguetes,Pelota,Online,Vendedor_4,50,230.55,2.54,190.8,10,Efectivo,2023,Junio,Miércoles,44.5839,-37.5237,11234.701500000001,1694.701500000001
+80,2023-02-18,América,Brasil,Ciudad_30,Electrónica,Auriculares,Distribuidor,Vendedor_11,18,488.56,10.63,432.59,10,Efectivo,2023,Julio,Sábado,-31.3444,20.9229,7859.2692959999995,72.6492959999996
+81,2021-02-11,Europa,España,Ciudad_8,Juguetes,Muñeca,Distribuidor,Vendedor_3,62,28.51,11.27,19.72,9,Transferencia,2021,Julio,Martes,-15.8949,-12.5783,1568.409226,345.7692260000001
+82,2021-02-02,Asia,Corea del Sur,Ciudad_14,Hogar,Silla,Distribuidor,Vendedor_15,6,10.99,6.21,5.74,8,Transferencia,2021,Abril,Martes,-47.3051,-22.6496,61.84512599999999,27.405125999999996
+83,2022-03-25,África,Sudáfrica,Ciudad_20,Electrónica,Laptop,Online,Vendedor_15,26,663.49,2.42,521.24,9,Transferencia,2022,Febrero,Domingo,9.6297,-60.5906,16833.272092000003,3281.032092000003
+84,2022-04-23,América,México,Ciudad_28,Electrónica,Televisor,Distribuidor,Vendedor_2,59,376.72,19.33,276.7,4,Transferencia,2022,Noviembre,Lunes,-22.1003,51.7314,17930.101416,1604.801416000002
+85,2022-10-08,América,México,Ciudad_4,Ropa,Camisa,Tienda,Vendedor_14,36,682.29,29.79,415.67,10,Tarjeta,2022,Julio,Martes,-30.2466,-1.897,17245.289124,2281.169123999998
+86,2022-01-26,África,Marruecos,Ciudad_13,Hogar,Silla,Tienda,Vendedor_1,55,369.98,28.53,325.45,4,Transferencia,2022,Septiembre,Sábado,15.9219,5.4914,14543.358830000001,-3356.391169999999
+87,2021-01-09,Asia,China,Ciudad_29,Juguetes,Puzzle,Tienda,Vendedor_12,54,789.38,22.63,672.6,3,Transferencia,2021,Febrero,Domingo,3.5531,-74.4059,32980.138524,-3340.2614759999997
+88,2021-11-03,África,Sudáfrica,Ciudad_20,Ropa,Camisa,Online,Vendedor_15,27,34.81,27.21,27.33,9,Tarjeta,2021,Agosto,Miércoles,20.5356,98.6631,684.131373,-53.778626999999915
+89,2022-08-15,Europa,España,Ciudad_2,Juguetes,Puzzle,Online,Vendedor_1,27,617.49,1.74,364.35,4,Transferencia,2022,Septiembre,Sábado,45.9245,90.0171,16382.133198,6544.683197999999
+90,2023-09-28,Asia,Corea del Sur,Ciudad_11,Alimentos,Leche,Tienda,Vendedor_2,59,371.64,24.91,211.19,3,Efectivo,2023,Marzo,Sábado,-37.5629,-62.6297,16464.804084,4004.5940840000003
+91,2023-04-28,América,Brasil,Ciudad_2,Juguetes,Puzzle,Distribuidor,Vendedor_10,74,504.75,2.02,302.81,10,Efectivo,2023,Junio,Lunes,9.5426,-61.7816,36596.9997,14189.059700000002
+92,2021-05-11,América,Argentina,Ciudad_9,Juguetes,Pelota,Distribuidor,Vendedor_1,77,520.92,2.05,294.61,9,Tarjeta,2021,Mayo,Domingo,-0.2322,82.4648,39288.56778,16603.597779999996
+93,2022-10-09,África,Egipto,Ciudad_1,Hogar,Silla,Distribuidor,Vendedor_14,1,600.78,22.15,521.49,7,Efectivo,2022,Octubre,Jueves,-8.2534,80.3553,467.70723,-53.78277000000003
+94,2022-02-11,Asia,China,Ciudad_22,Electrónica,Laptop,Distribuidor,Vendedor_11,45,176.84,28.45,94.94,9,Efectivo,2022,Junio,Lunes,17.5409,-40.16,5693.8059,1421.5059
+95,2022-07-03,Europa,Alemania,Ciudad_17,Hogar,Cama,Distribuidor,Vendedor_9,69,214.82,16.98,151.98,10,Transferencia,2022,Julio,Domingo,-10.4907,98.8758,12305.705916,1819.0859160000018
+96,2021-09-12,Europa,España,Ciudad_7,Hogar,Cama,Tienda,Vendedor_13,75,69.2,12.4,47.11,5,Efectivo,2021,Septiembre,Jueves,13.0995,77.5082,4546.44,1013.1899999999996
+97,2023-11-14,América,EEUU,Ciudad_13,Ropa,Chaqueta,Distribuidor,Vendedor_1,38,651.25,29.13,496.95,5,Efectivo,2023,Abril,Domingo,30.8579,-46.2994,17538.55325,-1345.5467499999977
+98,2021-06-13,África,Nigeria,Ciudad_4,Electrónica,Smartphone,Online,Vendedor_14,37,10.47,0.66,6.01,5,Transferencia,2021,Noviembre,Sábado,8.6689,-95.6346,384.833226,162.46322600000002
+99,2022-08-05,Europa,Italia,Ciudad_15,Electrónica,Auriculares,Tienda,Vendedor_3,36,164.8,12.18,84.48,7,Efectivo,2022,Febrero,Martes,18.9332,27.9857,5210.18496,2168.9049599999994
+100,2022-05-17,África,Marruecos,Ciudad_7,Hogar,Mesa,Tienda,Vendedor_8,31,505.87,24.81,381.58,4,Transferencia,2022,Julio,Lunes,-24.9815,-40.3377,11791.273243,-37.706756999999925
+101,2021-05-17,África,Sudáfrica,Ciudad_5,Electrónica,Televisor,Online,Vendedor_15,22,277.09,24.19,163.46,4,Transferencia,2021,Febrero,Viernes,-4.6968,1.2498,4621.362437999999,1025.2424379999989
+102,2022-07-26,Europa,Francia,Ciudad_29,Electrónica,Smartphone,Distribuidor,Vendedor_8,62,365.44,20.81,257.64,5,Tarjeta,2022,Agosto,Lunes,2.9824,-63.4043,17942.300032,1968.6200320000007
+103,2022-11-27,Europa,Alemania,Ciudad_7,Alimentos,Cereal,Tienda,Vendedor_8,18,719.21,10.96,480.17,1,Tarjeta,2022,Diciembre,Domingo,2.2854,70.7437,11526.922512000001,2883.8625120000015
+104,2023-11-18,África,Nigeria,Ciudad_25,Alimentos,Leche,Tienda,Vendedor_11,18,622.03,9.27,460.8,4,Transferencia,2023,Febrero,Lunes,19.4621,63.9731,10158.620742,1864.2207419999995
+105,2022-10-21,África,Sudáfrica,Ciudad_25,Alimentos,Leche,Online,Vendedor_2,71,519.49,5.1,297.1,10,Efectivo,2022,Junio,Martes,-49.0918,4.6845,35002.71671,13908.616709999998
+106,2022-12-04,África,Sudáfrica,Ciudad_14,Juguetes,Pelota,Online,Vendedor_4,16,366.53,10.27,194.74,1,Tarjeta,2022,Julio,Lunes,-29.9105,-23.8662,5262.197904,2146.3579039999995
+107,2022-05-06,Europa,Italia,Ciudad_9,Ropa,Camisa,Online,Vendedor_14,72,69.53,26.7,40.16,6,Transferencia,2022,Junio,Domingo,-5.32,27.337,3669.5152799999996,777.9952800000001
+108,2021-11-01,América,EEUU,Ciudad_15,Alimentos,Leche,Tienda,Vendedor_9,32,191.96,6.64,154.76,7,Efectivo,2021,Noviembre,Miércoles,-6.3124,31.9928,5734.843392,782.5233920000001
+109,2023-08-15,Europa,Alemania,Ciudad_23,Hogar,Silla,Online,Vendedor_9,52,477.14,1.09,316.41,8,Efectivo,2023,Febrero,Lunes,-2.5437,-90.6376,24540.837047999998,8087.517047999998
+110,2023-12-24,Europa,Francia,Ciudad_20,Hogar,Cama,Tienda,Vendedor_14,79,260.06,7.53,198.9,9,Efectivo,2023,Julio,Jueves,-36.8519,59.3421,18997.721078000002,3284.621078000002
+111,2022-01-01,Europa,Francia,Ciudad_6,Ropa,Pantalón,Online,Vendedor_1,7,338.43,12.03,279.99,3,Efectivo,2022,Marzo,Domingo,-9.6005,20.3413,2084.018097,124.08809700000006
+112,2021-11-18,Asia,Japón,Ciudad_17,Electrónica,Televisor,Online,Vendedor_4,28,563.89,3.48,290.92,4,Efectivo,2021,Septiembre,Sábado,-35.0996,96.5077,15239.465584000001,7093.705584000001
+113,2021-10-08,Asia,Japón,Ciudad_26,Ropa,Pantalón,Distribuidor,Vendedor_4,57,44.34,15.22,27.55,8,Transferencia,2021,Marzo,Domingo,-41.8798,-93.7823,2142.712764,572.3627639999997
+114,2023-04-05,América,Argentina,Ciudad_11,Electrónica,Laptop,Tienda,Vendedor_6,80,558.45,3.1,382.79,2,Transferencia,2023,Septiembre,Viernes,-47.4467,-12.2736,43291.044,12667.844000000001
+115,2021-07-24,África,Marruecos,Ciudad_25,Juguetes,Puzzle,Online,Vendedor_10,79,240.55,27.65,200.95,5,Tarjeta,2021,Enero,Domingo,-37.9941,-90.4897,13748.996075000001,-2126.0539249999983
+116,2021-04-01,América,México,Ciudad_19,Alimentos,Leche,Tienda,Vendedor_11,45,781.33,23.92,419.51,10,Tarjeta,2021,Marzo,Viernes,38.324,64.4938,26749.613879999997,7871.663879999996
+117,2021-05-23,Europa,España,Ciudad_19,Juguetes,Puzzle,Online,Vendedor_5,64,523.24,23.8,420.51,10,Tarjeta,2021,Julio,Sábado,26.0978,-32.3016,25517.36832,-1395.271679999998
+118,2021-06-10,África,Nigeria,Ciudad_5,Electrónica,Smartphone,Tienda,Vendedor_15,27,63.81,10.3,44.07,1,Transferencia,2021,Noviembre,Miércoles,25.9868,3.0007,1545.4143900000001,355.52439000000004
+119,2023-06-09,Asia,Japón,Ciudad_13,Hogar,Lámpara,Tienda,Vendedor_3,4,660.11,3.78,431.87,2,Transferencia,2023,Junio,Jueves,-18.3259,-92.7606,2540.631368,813.1513679999998
+120,2021-12-26,Asia,China,Ciudad_1,Electrónica,Auriculares,Online,Vendedor_3,16,747.8,16.71,452.59,9,Efectivo,2021,Noviembre,Jueves,-46.8149,-72.5503,9965.481919999998,2724.0419199999988
+121,2023-02-26,Europa,Italia,Ciudad_27,Juguetes,Muñeca,Online,Vendedor_14,71,587.61,21.75,492.21,4,Transferencia,2023,Noviembre,Domingo,20.3164,18.472,32646.142574999998,-2300.767424999998
+122,2022-01-02,Europa,Francia,Ciudad_13,Alimentos,Cereal,Online,Vendedor_14,37,389.81,21.89,218.51,1,Tarjeta,2022,Mayo,Viernes,6.4566,4.4462,11265.781867,3180.911867
+123,2022-11-15,África,Sudáfrica,Ciudad_27,Hogar,Lámpara,Online,Vendedor_5,2,48.68,12.14,36.2,9,Tarjeta,2022,Febrero,Domingo,-48.296,76.1847,85.540496,13.140495999999999
+124,2023-05-02,África,Nigeria,Ciudad_17,Ropa,Zapatos,Tienda,Vendedor_13,79,240.28,23.84,151.31,3,Transferencia,2023,Septiembre,Jueves,-22.6889,99.5217,14456.782592,2503.292592
+125,2023-02-22,África,Nigeria,Ciudad_23,Ropa,Camisa,Distribuidor,Vendedor_3,39,453.84,10.97,316.66,10,Efectivo,2023,Agosto,Miércoles,3.8927,16.3099,15758.096327999998,3408.356327999996
+126,2021-09-10,Asia,India,Ciudad_12,Electrónica,Televisor,Distribuidor,Vendedor_7,6,602.07,29.22,401.25,4,Efectivo,2021,Agosto,Domingo,18.9294,-6.9896,2556.870876,149.37087599999995
+127,2023-02-13,África,Nigeria,Ciudad_19,Electrónica,Auriculares,Online,Vendedor_8,26,522.64,16.87,404.43,10,Transferencia,2023,Octubre,Martes,49.0192,-70.0352,11296.236431999998,781.0564319999976
+128,2023-05-26,África,Egipto,Ciudad_11,Alimentos,Cereal,Tienda,Vendedor_13,2,313.2,18.95,163.96,2,Tarjeta,2023,Diciembre,Miércoles,-48.6631,-90.9851,507.69719999999995,179.77719999999994
+129,2023-03-07,América,Brasil,Ciudad_18,Hogar,Cama,Distribuidor,Vendedor_15,55,181.22,22.75,132.71,9,Efectivo,2023,Agosto,Domingo,-6.7264,-5.8787,7699.58475,400.5347499999998
+130,2023-04-01,América,EEUU,Ciudad_14,Electrónica,Auriculares,Tienda,Vendedor_7,42,220.03,5.82,157.07,7,Tarjeta,2023,Febrero,Sábado,27.0014,-9.8158,8703.418668,2106.4786680000007
+131,2022-03-19,Europa,España,Ciudad_14,Hogar,Cama,Distribuidor,Vendedor_8,79,452.34,8.3,405.54,4,Tarjeta,2022,Septiembre,Lunes,1.6461,-5.1261,32768.86662,731.2066200000008
+132,2023-09-17,Asia,Japón,Ciudad_26,Ropa,Chaqueta,Tienda,Vendedor_7,8,337.11,12.49,295.68,9,Efectivo,2023,Marzo,Jueves,26.0909,40.5733,2360.039688,-5.400312000000213
+133,2022-10-10,América,Brasil,Ciudad_7,Alimentos,Pan,Online,Vendedor_3,75,131.06,7.99,106.23,2,Transferencia,2022,Enero,Jueves,23.6063,4.8748,9044.12295,1076.8729500000009
+134,2022-05-14,Asia,Corea del Sur,Ciudad_15,Ropa,Pantalón,Distribuidor,Vendedor_7,33,632.99,21.27,463.79,10,Tarjeta,2022,Enero,Miércoles,-18.7723,29.8506,16445.649891,1140.5798909999994
+135,2023-11-18,Asia,India,Ciudad_24,Ropa,Zapatos,Online,Vendedor_5,57,502.73,3.55,433.89,7,Tarjeta,2023,Junio,Sábado,-0.4002,-59.8138,27638.335845,2906.605845000002
+136,2023-02-16,Asia,China,Ciudad_27,Electrónica,Televisor,Distribuidor,Vendedor_3,12,6.72,6.09,3.86,1,Efectivo,2023,Junio,Lunes,18.0775,34.5769,75.72902400000001,29.40902400000001
+137,2022-03-13,África,Nigeria,Ciudad_7,Ropa,Zapatos,Online,Vendedor_3,45,192.76,12.97,173.03,4,Tarjeta,2022,Agosto,Miércoles,48.6287,-22.0772,7549.156259999999,-237.19374000000153
+138,2021-01-18,América,Argentina,Ciudad_7,Juguetes,Muñeca,Online,Vendedor_2,32,393.46,19.6,219.89,6,Transferencia,2021,Junio,Domingo,43.9825,92.2803,10122.93888,3086.45888
+139,2021-04-13,Asia,Japón,Ciudad_11,Electrónica,Smartphone,Tienda,Vendedor_10,68,765.53,17.22,590.05,7,Transferencia,2021,Febrero,Lunes,-5.9258,57.9991,43091.989912,2968.589912000003
+140,2021-09-11,Europa,España,Ciudad_6,Alimentos,Queso,Tienda,Vendedor_13,35,123.13,15.67,102.55,9,Efectivo,2021,Junio,Martes,-10.755,-84.2333,3634.243515,44.993515000000116
+141,2023-02-10,América,Brasil,Ciudad_9,Juguetes,Pelota,Online,Vendedor_7,36,148.45,29.72,120.97,7,Transferencia,2023,Noviembre,Miércoles,21.6681,27.2572,3755.90376,-599.0162399999999
+142,2021-11-28,América,Argentina,Ciudad_3,Hogar,Lámpara,Tienda,Vendedor_11,4,536.7,20.91,326.32,10,Efectivo,2021,Octubre,Sábado,-10.1844,-62.1218,1697.90412,392.62411999999995
+143,2023-07-05,África,Nigeria,Ciudad_5,Electrónica,Smartphone,Distribuidor,Vendedor_6,67,716.5,9.81,428.74,2,Transferencia,2023,Septiembre,Lunes,-34.3035,87.0592,43296.16045,14570.580450000001
+144,2022-09-11,África,Marruecos,Ciudad_28,Alimentos,Queso,Distribuidor,Vendedor_2,56,270.28,28.89,201.41,8,Tarjeta,2022,Abril,Sábado,41.1383,66.8541,10762.982048,-515.9779519999993
+145,2023-01-15,África,Egipto,Ciudad_21,Hogar,Cama,Distribuidor,Vendedor_1,36,421.93,6.28,264.88,10,Efectivo,2023,Abril,Miércoles,-21.5199,-26.7542,14235.580656,4699.900656
+146,2021-01-06,Europa,Francia,Ciudad_11,Electrónica,Laptop,Online,Vendedor_9,76,180.42,9.07,129.4,9,Efectivo,2021,Octubre,Domingo,23.2477,11.5757,12468.248855999998,2633.8488559999987
+147,2023-09-28,África,Nigeria,Ciudad_8,Alimentos,Cereal,Online,Vendedor_10,25,246.18,12.85,157.11,10,Efectivo,2023,Abril,Domingo,-4.7848,-7.0075,5363.64675,1435.8967499999994
+148,2021-07-26,África,Nigeria,Ciudad_2,Alimentos,Queso,Tienda,Vendedor_9,75,688.25,10.84,467.45,7,Efectivo,2021,Mayo,Martes,38.1724,3.1678,46023.2775,10964.527499999997
+149,2021-04-23,África,Egipto,Ciudad_4,Hogar,Cama,Tienda,Vendedor_15,76,613.18,22.34,310.73,4,Efectivo,2021,Abril,Martes,-25.1054,-38.1799,36190.864687999994,12575.384687999991
+150,2023-05-20,Europa,España,Ciudad_27,Ropa,Camisa,Distribuidor,Vendedor_8,75,46.32,17.74,29.7,6,Transferencia,2023,Enero,Sábado,-29.6952,26.9365,2857.7124,630.2123999999999
+151,2022-05-27,África,Egipto,Ciudad_7,Ropa,Chaqueta,Tienda,Vendedor_9,29,593.12,27.32,469.54,3,Transferencia,2022,Abril,Jueves,-23.064,-18.4937,12501.308864,-1115.3511359999993
+152,2021-02-14,África,Sudáfrica,Ciudad_26,Electrónica,Televisor,Online,Vendedor_15,46,615.96,12.25,349.25,1,Efectivo,2021,Agosto,Jueves,35.0157,-64.0735,24863.225400000003,8797.725400000003
+153,2022-07-07,Asia,Japón,Ciudad_27,Electrónica,Televisor,Distribuidor,Vendedor_13,31,463.22,8.19,385.55,8,Transferencia,2022,Junio,Jueves,39.9953,77.5355,13183.750742000002,1231.700742000001
+154,2022-06-07,América,Argentina,Ciudad_26,Electrónica,Smartphone,Tienda,Vendedor_7,12,398.78,13.65,223.27,5,Tarjeta,2022,Abril,Jueves,-25.0645,-62.0904,4132.158359999999,1452.9183599999992
+155,2022-12-11,Asia,Corea del Sur,Ciudad_26,Juguetes,Auto de juguete,Distribuidor,Vendedor_4,17,43.82,28.53,32.95,1,Transferencia,2022,Agosto,Miércoles,-27.2175,46.7213,532.408618,-27.741382000000044
+156,2022-10-01,Asia,India,Ciudad_14,Ropa,Zapatos,Distribuidor,Vendedor_13,51,177.68,28.01,110.37,6,Tarjeta,2022,Febrero,Viernes,-38.1976,93.5426,6523.503432,894.6334320000005
+157,2022-10-11,Asia,India,Ciudad_4,Ropa,Camisa,Online,Vendedor_6,77,610.97,8.97,486.16,5,Transferencia,2022,Diciembre,Viernes,-3.8875,-54.9094,42824.781307000005,5390.461307000005
+158,2022-11-21,Asia,India,Ciudad_20,Alimentos,Pan,Distribuidor,Vendedor_2,28,270.99,16.44,215.48,8,Efectivo,2022,Febrero,Viernes,-38.3832,57.0471,6340.298832,306.8588320000008
+159,2022-06-14,América,Argentina,Ciudad_16,Ropa,Zapatos,Distribuidor,Vendedor_11,14,285.51,14.17,200.1,5,Tarjeta,2022,Marzo,Sábado,-11.6984,85.9789,3430.7452620000004,629.3452620000003
+160,2021-09-11,Asia,Corea del Sur,Ciudad_7,Electrónica,Auriculares,Tienda,Vendedor_2,4,544.17,14.59,316.71,1,Efectivo,2021,Septiembre,Domingo,-36.7322,-3.8383,1859.1023879999998,592.2623879999999
+161,2021-11-20,Asia,China,Ciudad_13,Alimentos,Queso,Tienda,Vendedor_11,55,317.8,29.0,273.88,7,Tarjeta,2021,Febrero,Miércoles,-49.942,28.5389,12410.09,-2653.3099999999995
+162,2022-01-18,África,Marruecos,Ciudad_17,Electrónica,Smartphone,Tienda,Vendedor_10,66,182.27,10.67,151.05,7,Transferencia,2022,Noviembre,Jueves,-21.1882,-68.1047,10746.238206000002,776.9382060000007
+163,2022-05-14,Europa,Francia,Ciudad_7,Electrónica,Laptop,Distribuidor,Vendedor_11,12,789.73,0.19,563.86,6,Tarjeta,2022,Febrero,Lunes,29.7511,92.6515,9458.754156,2692.434156000001
+164,2023-07-12,África,Sudáfrica,Ciudad_10,Ropa,Camisa,Online,Vendedor_14,63,680.15,14.09,495.99,7,Efectivo,2023,Febrero,Martes,-46.0602,41.9431,36811.962495,5564.592495000001
+165,2023-11-23,África,Sudáfrica,Ciudad_24,Electrónica,Auriculares,Online,Vendedor_14,23,396.23,24.25,267.12,1,Tarjeta,2023,Enero,Lunes,-0.7284,55.4757,6903.317175000001,759.5571750000008
+166,2023-02-02,América,Brasil,Ciudad_22,Alimentos,Cereal,Tienda,Vendedor_15,32,349.57,7.43,279.19,9,Transferencia,2023,Febrero,Martes,3.031,15.7561,10355.102368,1421.022368
+167,2023-04-21,Asia,China,Ciudad_7,Alimentos,Queso,Distribuidor,Vendedor_14,78,446.07,23.59,384.82,1,Efectivo,2023,Febrero,Viernes,-11.1587,83.1481,26585.682785999998,-3430.2772140000015
+168,2022-03-02,Europa,Italia,Ciudad_25,Juguetes,Muñeca,Distribuidor,Vendedor_12,53,496.07,7.26,421.36,5,Transferencia,2022,Marzo,Martes,-37.863,-8.2513,24382.931854,2050.851853999997
+169,2021-12-11,África,Egipto,Ciudad_27,Alimentos,Pan,Online,Vendedor_10,77,677.03,6.29,529.37,9,Tarjeta,2021,Abril,Miércoles,30.5204,-40.4514,48852.250601,8090.760601000002
+170,2021-02-12,África,Sudáfrica,Ciudad_30,Ropa,Chaqueta,Online,Vendedor_6,51,734.26,28.28,456.2,6,Efectivo,2021,Agosto,Domingo,10.8273,7.6483,26857.174872000003,3590.9748720000025
+171,2023-06-12,África,Marruecos,Ciudad_1,Electrónica,Auriculares,Online,Vendedor_11,10,722.13,0.41,630.6,8,Transferencia,2023,Abril,Martes,5.6235,-27.913,7191.69267,885.6926700000004
+172,2023-09-26,Asia,Japón,Ciudad_14,Ropa,Camisa,Tienda,Vendedor_12,26,611.58,29.97,485.39,7,Transferencia,2023,Febrero,Domingo,46.5468,15.104,11135.526324000002,-1484.6136759999972
+173,2023-09-21,Asia,India,Ciudad_5,Alimentos,Queso,Tienda,Vendedor_14,61,335.73,13.66,177.89,6,Tarjeta,2023,Septiembre,Lunes,-46.8737,-10.9145,17682.026202,6830.736202000002
+174,2021-09-18,Asia,Japón,Ciudad_17,Electrónica,Televisor,Online,Vendedor_2,27,122.79,23.81,109.34,1,Transferencia,2021,Septiembre,Viernes,-8.8144,82.4059,2525.9499270000006,-426.2300729999997
+175,2022-01-18,América,Argentina,Ciudad_12,Alimentos,Leche,Tienda,Vendedor_10,77,541.73,14.83,349.71,1,Tarjeta,2022,Julio,Lunes,-27.1336,16.6932,35527.140957,8599.470957000005
+176,2022-05-01,África,Nigeria,Ciudad_6,Hogar,Lámpara,Distribuidor,Vendedor_2,18,33.44,1.93,22.5,1,Efectivo,2022,Noviembre,Domingo,20.3219,7.1461,590.302944,185.30294400000002
+177,2021-11-10,América,Argentina,Ciudad_23,Electrónica,Televisor,Online,Vendedor_8,37,87.26,3.51,59.62,6,Transferencia,2021,Mayo,Martes,-48.5457,-56.1732,3115.295438,909.355438
+178,2021-11-18,Asia,Corea del Sur,Ciudad_28,Electrónica,Auriculares,Online,Vendedor_15,10,196.94,29.71,131.58,5,Tarjeta,2021,Febrero,Miércoles,-2.588,44.9814,1384.29126,68.49125999999978
+179,2022-10-15,África,Marruecos,Ciudad_7,Ropa,Camisa,Distribuidor,Vendedor_2,23,779.94,10.98,391.96,4,Transferencia,2022,Diciembre,Viernes,30.0096,-5.4389,15968.959524000002,6953.879524000002
+180,2022-01-23,América,México,Ciudad_17,Hogar,Lámpara,Tienda,Vendedor_3,49,732.36,14.08,588.11,10,Transferencia,2022,Marzo,Jueves,-20.7593,61.9402,30832.941887999998,2015.5518879999981
+181,2021-05-02,América,Brasil,Ciudad_25,Ropa,Camisa,Distribuidor,Vendedor_15,3,630.35,9.01,416.28,2,Transferencia,2021,Abril,Domingo,-41.211,-73.6688,1720.6663950000002,471.8263950000003
+182,2022-08-06,América,Brasil,Ciudad_13,Alimentos,Queso,Distribuidor,Vendedor_14,6,727.32,28.92,431.19,1,Transferencia,2022,Diciembre,Viernes,18.6275,-74.8346,3101.874336,514.734336
+183,2023-06-28,Europa,Alemania,Ciudad_17,Hogar,Mesa,Tienda,Vendedor_15,48,509.78,16.01,307.05,10,Tarjeta,2023,Diciembre,Domingo,36.0992,69.2748,20551.882655999998,5813.4826559999965
+184,2022-05-03,Asia,Corea del Sur,Ciudad_5,Electrónica,Smartphone,Tienda,Vendedor_1,31,604.88,28.56,357.56,4,Tarjeta,2022,Julio,Domingo,30.2786,-81.0003,13395.914432,2311.554431999999
+185,2023-05-09,Europa,Francia,Ciudad_15,Hogar,Silla,Distribuidor,Vendedor_10,66,404.01,21.44,300.75,7,Efectivo,2023,Septiembre,Martes,42.1139,-24.168,20947.756896,1098.256895999999
+186,2023-09-09,África,Sudáfrica,Ciudad_26,Juguetes,Puzzle,Tienda,Vendedor_12,9,680.05,16.87,355.97,10,Tarjeta,2023,Septiembre,Viernes,5.8659,-69.9933,5087.930084999999,1884.2000849999986
+187,2022-12-22,Asia,China,Ciudad_20,Electrónica,Auriculares,Tienda,Vendedor_7,59,213.08,16.69,133.08,3,Efectivo,2022,Agosto,Domingo,-25.8875,-68.042,10473.499932,2621.7799319999995
+188,2021-04-19,América,México,Ciudad_9,Juguetes,Auto de juguete,Distribuidor,Vendedor_5,39,5.8,21.18,4.31,4,Tarjeta,2021,Diciembre,Domingo,47.312,40.3583,178.29084,10.200840000000028
+189,2021-02-16,Asia,India,Ciudad_11,Alimentos,Queso,Online,Vendedor_8,44,316.38,8.3,217.17,2,Transferencia,2021,Abril,Sábado,-36.2393,-30.2599,12765.30024,3209.820240000001
+190,2023-12-10,América,Brasil,Ciudad_13,Electrónica,Laptop,Online,Vendedor_8,78,408.71,15.41,266.73,9,Efectivo,2023,Junio,Martes,-6.8602,42.49,26966.767541999998,6161.827541999995
+191,2023-06-15,América,EEUU,Ciudad_25,Electrónica,Televisor,Online,Vendedor_15,45,333.01,5.44,193.45,1,Tarjeta,2023,Septiembre,Domingo,2.333,-73.7794,14170.24152,5464.99152
+192,2022-06-13,Asia,India,Ciudad_15,Ropa,Chaqueta,Distribuidor,Vendedor_1,74,709.55,2.86,374.93,4,Transferencia,2022,Octubre,Domingo,-4.9219,-81.3986,51005.00838,23260.18838
+193,2023-03-21,Asia,Corea del Sur,Ciudad_21,Electrónica,Auriculares,Tienda,Vendedor_5,79,350.32,20.27,200.32,3,Transferencia,2023,Noviembre,Domingo,-24.2332,40.9986,22065.500744,6240.220744000002
+194,2021-02-26,Asia,India,Ciudad_27,Hogar,Mesa,Tienda,Vendedor_5,34,377.17,6.41,301.08,5,Transferencia,2021,Octubre,Martes,44.6699,74.344,12001.775702,1765.0557020000015
+195,2022-10-27,América,Argentina,Ciudad_2,Hogar,Cama,Online,Vendedor_10,28,249.71,16.87,175.96,2,Tarjeta,2022,Abril,Viernes,-37.9311,-94.3337,5812.349843999999,885.4698439999993
+196,2021-01-24,África,Marruecos,Ciudad_8,Juguetes,Muñeca,Tienda,Vendedor_7,44,40.19,19.14,27.25,9,Tarjeta,2021,Noviembre,Lunes,12.7958,40.0898,1429.895896,230.895896
+197,2021-09-21,Asia,Corea del Sur,Ciudad_24,Alimentos,Queso,Tienda,Vendedor_12,37,207.91,29.61,182.84,8,Efectivo,2021,Noviembre,Jueves,-12.9485,-13.0594,5414.870413,-1350.2095870000003
+198,2021-12-04,América,EEUU,Ciudad_9,Juguetes,Puzzle,Online,Vendedor_2,27,92.25,19.18,66.12,1,Efectivo,2021,Julio,Domingo,48.752,-44.5755,2013.02415,227.78414999999973
+199,2021-12-28,Europa,Italia,Ciudad_13,Hogar,Lámpara,Online,Vendedor_13,56,264.62,20.46,142.26,4,Transferencia,2021,Agosto,Martes,-26.576,62.1175,11786.809888000002,3820.249888000002
+200,2023-02-02,América,Argentina,Ciudad_7,Juguetes,Muñeca,Tienda,Vendedor_14,31,454.65,19.04,287.21,1,Transferencia,2023,Septiembre,Martes,-45.0362,-4.2894,11410.62384,2507.11384
+201,2022-11-18,América,Brasil,Ciudad_23,Hogar,Mesa,Tienda,Vendedor_5,30,53.18,24.47,26.85,8,Tarjeta,2022,Diciembre,Sábado,-8.6826,-9.9358,1205.0056200000001,399.50562000000014
+202,2023-01-25,América,Brasil,Ciudad_26,Electrónica,Laptop,Tienda,Vendedor_4,42,96.57,5.82,64.0,2,Transferencia,2023,Agosto,Miércoles,22.7664,99.9965,3819.8842919999993,1131.8842919999993
+203,2023-08-11,Asia,India,Ciudad_28,Ropa,Camisa,Online,Vendedor_14,72,577.46,27.72,369.08,3,Tarjeta,2023,Enero,Martes,-21.3438,39.8826,30051.942336,3478.1823360000017
+204,2023-02-23,Asia,China,Ciudad_10,Hogar,Silla,Online,Vendedor_12,51,173.32,13.78,96.51,8,Transferencia,2023,Febrero,Miércoles,-39.2362,-60.6457,7621.261704,2699.2517039999993
+205,2021-09-27,África,Nigeria,Ciudad_7,Electrónica,Auriculares,Distribuidor,Vendedor_11,66,633.46,14.3,476.27,3,Efectivo,2021,Enero,Martes,41.7622,84.4296,35829.76452,4395.944519999997
+206,2021-05-25,África,Marruecos,Ciudad_8,Hogar,Mesa,Tienda,Vendedor_9,37,787.68,3.74,659.33,6,Efectivo,2021,Enero,Martes,-18.7874,66.8308,28054.168416,3658.9584159999977
+207,2022-03-01,Europa,Italia,Ciudad_19,Electrónica,Smartphone,Tienda,Vendedor_12,10,677.84,27.46,577.39,5,Transferencia,2022,Julio,Sábado,15.9954,-77.5882,4917.05136,-856.8486399999992
+208,2023-12-28,Asia,Japón,Ciudad_11,Juguetes,Auto de juguete,Online,Vendedor_15,36,572.44,7.1,466.97,6,Tarjeta,2023,Agosto,Jueves,30.8047,61.8425,19144.683360000003,2333.763360000001
+209,2022-02-10,África,Marruecos,Ciudad_25,Hogar,Silla,Tienda,Vendedor_1,12,33.47,2.53,21.62,1,Transferencia,2022,Enero,Domingo,-0.0766,-21.3126,391.478508,132.03850799999998
+210,2023-07-22,África,Sudáfrica,Ciudad_12,Electrónica,Televisor,Tienda,Vendedor_1,32,528.63,10.83,299.89,2,Efectivo,2023,Junio,Lunes,-35.0436,-72.4307,15084.139871999998,5487.659871999998
+211,2023-11-17,América,Brasil,Ciudad_22,Alimentos,Cereal,Online,Vendedor_12,6,600.37,17.54,333.5,3,Transferencia,2023,Enero,Miércoles,44.9819,61.0329,2970.390612,969.3906120000001
+212,2022-09-15,Asia,Japón,Ciudad_12,Alimentos,Cereal,Online,Vendedor_14,37,612.42,20.15,415.74,5,Transferencia,2022,Marzo,Domingo,-31.8496,78.6402,18093.642689999997,2711.262689999996
+213,2021-07-15,Europa,Alemania,Ciudad_24,Hogar,Cama,Distribuidor,Vendedor_12,55,509.48,5.22,451.61,1,Efectivo,2021,Febrero,Sábado,-5.3804,-94.6446,26558.68292,1720.13292
+214,2021-09-11,América,EEUU,Ciudad_4,Electrónica,Auriculares,Tienda,Vendedor_3,46,169.87,9.04,103.02,6,Transferencia,2021,Enero,Jueves,38.5236,-22.8306,7107.632592,2368.712592
+215,2023-12-11,Asia,Corea del Sur,Ciudad_12,Ropa,Camisa,Online,Vendedor_7,30,232.12,20.08,154.09,2,Transferencia,2023,Febrero,Domingo,-13.3396,46.1358,5565.309120000001,942.609120000001
+216,2023-05-08,Asia,India,Ciudad_27,Hogar,Mesa,Online,Vendedor_1,29,637.91,23.28,533.76,7,Efectivo,2023,Junio,Viernes,-5.1091,-77.9857,14192.732007999999,-1286.307992
+217,2022-08-24,América,EEUU,Ciudad_28,Hogar,Mesa,Distribuidor,Vendedor_8,8,324.5,21.09,273.91,2,Efectivo,2022,Enero,Jueves,-7.7114,-23.9325,2048.5036,-142.7764000000002
+218,2022-08-15,África,Egipto,Ciudad_16,Hogar,Mesa,Distribuidor,Vendedor_7,24,580.02,14.88,499.92,8,Transferencia,2022,Agosto,Jueves,23.722,27.6814,11849.112576,-148.9674240000004
+219,2022-07-23,América,Brasil,Ciudad_26,Ropa,Pantalón,Online,Vendedor_3,44,247.76,23.6,125.24,2,Efectivo,2022,Agosto,Lunes,-46.6199,23.8152,8328.700159999999,2818.140159999999
+220,2023-12-19,África,Egipto,Ciudad_17,Hogar,Mesa,Tienda,Vendedor_5,77,668.38,2.82,514.71,9,Transferencia,2023,Septiembre,Jueves,-39.5102,73.0315,50013.939668,10381.269667999994
+221,2023-08-08,América,Argentina,Ciudad_21,Hogar,Silla,Online,Vendedor_12,55,721.01,10.07,453.03,8,Tarjeta,2023,Enero,Lunes,-1.5729,-59.7954,35662.236115,10745.586115000002
+222,2023-03-18,África,Sudáfrica,Ciudad_12,Juguetes,Puzzle,Tienda,Vendedor_11,44,496.29,14.91,373.63,4,Transferencia,2023,Mayo,Lunes,-0.6681,56.2966,18580.899084,2141.1790839999994
+223,2022-01-12,Europa,España,Ciudad_13,Hogar,Silla,Online,Vendedor_8,26,375.63,7.13,326.26,1,Tarjeta,2022,Junio,Miércoles,-6.7154,-79.5205,9070.037106,587.2771059999995
+224,2021-06-13,Europa,Alemania,Ciudad_1,Alimentos,Pan,Distribuidor,Vendedor_6,28,799.88,22.82,434.66,3,Tarjeta,2021,Abril,Domingo,19.6444,-68.9991,17285.726752,5115.246751999997
+225,2021-04-16,Asia,India,Ciudad_4,Hogar,Cama,Tienda,Vendedor_8,75,135.36,3.92,73.87,6,Tarjeta,2021,Noviembre,Miércoles,-13.2746,3.5905,9754.041600000002,4213.791600000002
+226,2021-09-22,Asia,Japón,Ciudad_28,Hogar,Lámpara,Distribuidor,Vendedor_2,28,694.99,22.22,623.11,5,Tarjeta,2021,Octubre,Jueves,38.4616,9.8983,15135.770216000003,-2311.309783999999
+227,2022-04-15,América,México,Ciudad_21,Electrónica,Smartphone,Online,Vendedor_8,48,64.65,11.16,35.73,4,Transferencia,2022,Diciembre,Viernes,19.9224,23.7274,2756.88288,1041.8428800000002
+228,2022-05-02,Asia,India,Ciudad_21,Ropa,Zapatos,Online,Vendedor_4,11,610.68,24.88,319.93,10,Transferencia,2022,Enero,Sábado,31.9406,-1.0899,5046.170975999999,1526.9409759999994
+229,2022-01-25,Asia,India,Ciudad_19,Hogar,Lámpara,Distribuidor,Vendedor_11,74,351.6,17.82,280.47,4,Transferencia,2022,Noviembre,Domingo,-36.3034,-3.766,21381.92112,627.1411199999966
+230,2022-06-08,Europa,Alemania,Ciudad_23,Alimentos,Leche,Online,Vendedor_7,43,119.01,27.69,88.21,2,Tarjeta,2022,Marzo,Viernes,22.892,-76.5787,3700.413633,-92.61636699999963
+231,2023-02-04,Asia,Japón,Ciudad_2,Alimentos,Leche,Distribuidor,Vendedor_1,61,341.59,12.06,188.0,2,Tarjeta,2023,Noviembre,Miércoles,-8.5533,-70.4918,18324.049005999997,6856.0490059999975
+232,2023-11-06,Asia,Corea del Sur,Ciudad_14,Hogar,Lámpara,Online,Vendedor_4,31,480.58,25.43,402.56,4,Tarjeta,2023,Julio,Miércoles,-43.5061,52.9674,11109.423686,-1369.9363140000005
+233,2022-05-05,Europa,Francia,Ciudad_28,Electrónica,Televisor,Online,Vendedor_11,40,325.02,0.29,199.2,5,Efectivo,2022,Marzo,Jueves,-34.2825,6.7533,12963.097679999999,4995.097679999999
+234,2023-10-25,Asia,Corea del Sur,Ciudad_10,Juguetes,Muñeca,Distribuidor,Vendedor_8,32,794.54,25.93,602.76,4,Efectivo,2023,Enero,Martes,-10.5872,-3.9792,18832.504896,-455.81510400000116
+235,2023-07-13,América,Argentina,Ciudad_13,Alimentos,Cereal,Online,Vendedor_5,74,658.13,12.52,416.44,3,Efectivo,2023,Julio,Martes,-44.6912,88.2547,42604.177176000005,11787.617176000003
+236,2022-03-09,América,EEUU,Ciudad_28,Ropa,Chaqueta,Tienda,Vendedor_7,69,598.04,7.95,467.82,3,Efectivo,2022,Octubre,Miércoles,16.0515,-99.9625,37984.211579999996,5704.6315799999975
+237,2023-04-24,Asia,Corea del Sur,Ciudad_9,Ropa,Chaqueta,Distribuidor,Vendedor_7,45,421.51,17.23,346.45,5,Efectivo,2023,Diciembre,Miércoles,-37.998,23.028,15699.772215,109.52221500000087
+238,2021-09-20,Asia,Japón,Ciudad_26,Electrónica,Smartphone,Distribuidor,Vendedor_1,6,794.19,20.95,554.49,3,Tarjeta,2021,Octubre,Domingo,38.2004,-84.0189,3766.84317,439.90317000000005
+239,2021-04-02,África,Marruecos,Ciudad_11,Alimentos,Pan,Tienda,Vendedor_1,73,133.38,29.28,76.95,7,Transferencia,2021,Noviembre,Sábado,28.325,-93.7703,6885.822528000001,1268.4725280000002
+240,2023-05-14,Asia,Corea del Sur,Ciudad_5,Juguetes,Pelota,Tienda,Vendedor_3,8,154.43,11.92,109.7,1,Transferencia,2023,Octubre,Lunes,10.9762,99.5283,1088.1755520000002,210.57555200000013
+241,2021-10-02,Europa,España,Ciudad_11,Hogar,Lámpara,Online,Vendedor_10,45,730.27,16.24,395.82,5,Transferencia,2021,Abril,Lunes,11.5891,29.0053,27525.33684,9713.436839999998
+242,2021-03-24,África,Sudáfrica,Ciudad_8,Ropa,Pantalón,Distribuidor,Vendedor_8,1,341.35,7.79,205.28,6,Transferencia,2021,Septiembre,Jueves,-3.6824,-53.8649,314.75883500000003,109.47883500000003
+243,2022-02-20,África,Nigeria,Ciudad_11,Hogar,Cama,Tienda,Vendedor_4,5,26.32,5.84,19.47,4,Transferencia,2022,Noviembre,Domingo,-0.4538,-16.0279,123.91456,26.56456
+244,2022-07-16,Asia,Japón,Ciudad_29,Ropa,Zapatos,Tienda,Vendedor_6,24,56.59,16.59,50.22,5,Transferencia,2022,Noviembre,Sábado,20.8153,6.5697,1132.8412560000002,-72.43874399999982
+245,2021-04-23,África,Sudáfrica,Ciudad_10,Electrónica,Auriculares,Online,Vendedor_11,33,30.56,27.28,23.33,9,Efectivo,2021,Diciembre,Martes,-31.1509,-1.0937,733.366656,-36.52334399999995
+246,2021-08-03,Asia,Japón,Ciudad_18,Ropa,Camisa,Online,Vendedor_15,39,745.76,20.89,400.39,5,Transferencia,2021,Julio,Viernes,20.3181,-3.5138,23008.858704000002,7393.648704000003
+247,2022-03-24,África,Egipto,Ciudad_17,Ropa,Zapatos,Tienda,Vendedor_8,51,549.39,9.08,467.72,10,Transferencia,2022,Octubre,Sábado,-4.1057,45.8506,25474.774788,1621.0547879999976
+248,2022-12-11,África,Nigeria,Ciudad_18,Juguetes,Auto de juguete,Distribuidor,Vendedor_15,55,545.09,0.28,370.83,1,Tarjeta,2022,Noviembre,Lunes,9.8321,-74.8978,29896.00614,9500.356140000004
+249,2021-09-19,Europa,Francia,Ciudad_16,Hogar,Mesa,Distribuidor,Vendedor_5,18,366.86,1.66,237.98,9,Transferencia,2021,Noviembre,Martes,8.1404,47.5853,6493.862232,2210.222232000001
+250,2022-04-19,África,Marruecos,Ciudad_15,Hogar,Lámpara,Online,Vendedor_4,38,117.89,10.57,105.27,8,Transferencia,2022,Octubre,Jueves,-12.9642,10.8201,4006.3030259999996,6.043025999999827
+251,2021-12-10,Europa,Italia,Ciudad_13,Electrónica,Auriculares,Online,Vendedor_6,45,166.41,21.84,100.04,6,Tarjeta,2021,Mayo,Martes,-24.5346,-50.8578,5852.972519999999,1351.1725199999992
+252,2022-04-12,América,Argentina,Ciudad_24,Ropa,Zapatos,Tienda,Vendedor_1,7,15.46,7.58,12.32,4,Tarjeta,2022,Noviembre,Domingo,-47.8743,77.983,100.016924,13.776923999999994
+253,2023-06-03,África,Egipto,Ciudad_21,Electrónica,Smartphone,Online,Vendedor_1,42,352.39,10.59,256.26,3,Transferencia,2023,Junio,Jueves,38.2766,-77.2106,13233.019757999999,2470.0997579999985
+254,2021-12-13,Asia,India,Ciudad_30,Ropa,Pantalón,Distribuidor,Vendedor_7,49,256.16,18.15,185.17,3,Efectivo,2021,Septiembre,Domingo,43.9363,39.659,10273.681040000001,1200.3510400000014
+255,2022-11-21,África,Egipto,Ciudad_29,Juguetes,Auto de juguete,Distribuidor,Vendedor_13,5,521.43,25.35,321.9,5,Efectivo,2022,Enero,Sábado,-48.0321,21.679,1946.2374749999997,336.7374749999997
+256,2023-09-01,África,Egipto,Ciudad_18,Juguetes,Muñeca,Distribuidor,Vendedor_9,27,786.97,19.83,424.31,10,Tarjeta,2023,Julio,Domingo,-19.5786,47.2343,17034.673923000002,5578.303923000001
+257,2023-08-24,Europa,Italia,Ciudad_9,Alimentos,Pan,Online,Vendedor_12,46,53.27,9.89,31.26,9,Tarjeta,2023,Febrero,Lunes,9.6315,-38.5723,2208.0734620000003,770.1134620000003
+258,2022-05-14,Europa,España,Ciudad_19,Hogar,Mesa,Distribuidor,Vendedor_4,63,313.6,13.45,179.12,5,Efectivo,2022,Mayo,Viernes,11.5202,55.5719,17099.510400000003,5814.950400000003
+259,2021-11-13,Asia,India,Ciudad_15,Hogar,Mesa,Online,Vendedor_12,27,750.31,22.58,395.63,8,Transferencia,2021,Enero,Domingo,41.7192,-26.3948,15684.030053999999,5002.020053999999
+260,2021-08-25,África,Egipto,Ciudad_12,Alimentos,Cereal,Online,Vendedor_13,42,95.25,24.7,59.21,1,Efectivo,2021,Marzo,Lunes,2.2774,-45.7211,3012.3765,525.5564999999997
+261,2022-01-13,Asia,China,Ciudad_30,Hogar,Silla,Tienda,Vendedor_14,19,544.24,25.45,394.77,2,Tarjeta,2022,Junio,Domingo,35.6177,-91.2015,7708.88748,208.25748000000112
+262,2021-11-19,África,Marruecos,Ciudad_26,Juguetes,Muñeca,Tienda,Vendedor_13,72,247.89,23.43,140.48,5,Tarjeta,2021,Diciembre,Domingo,5.8038,38.7813,13666.274856,3551.7148560000005
+263,2023-03-11,África,Marruecos,Ciudad_19,Alimentos,Queso,Tienda,Vendedor_2,31,225.31,0.34,171.17,8,Tarjeta,2023,Agosto,Viernes,-6.0911,-21.6334,6960.862326,1654.5923260000009
+264,2022-01-23,América,Brasil,Ciudad_30,Electrónica,Televisor,Distribuidor,Vendedor_9,35,32.54,14.62,22.78,7,Transferencia,2022,Octubre,Sábado,-41.5024,-0.328,972.3928199999999,175.09281999999985
+265,2022-02-24,América,Argentina,Ciudad_7,Hogar,Cama,Online,Vendedor_6,62,359.74,27.64,277.53,5,Tarjeta,2022,Enero,Domingo,10.6555,-73.1193,16139.087568,-1067.7724319999961
+266,2023-11-04,América,Argentina,Ciudad_24,Alimentos,Pan,Online,Vendedor_15,37,411.23,26.48,260.04,8,Transferencia,2023,Agosto,Lunes,28.2113,-77.7451,11186.442952000001,1564.9629519999999
+267,2022-05-02,Europa,Alemania,Ciudad_17,Electrónica,Laptop,Online,Vendedor_11,6,230.58,3.66,148.94,3,Tarjeta,2022,Marzo,Domingo,-30.3395,-20.3464,1332.844632,439.20463200000006
+268,2023-01-23,África,Egipto,Ciudad_12,Ropa,Chaqueta,Distribuidor,Vendedor_7,33,454.71,12.62,369.55,1,Transferencia,2023,Enero,Martes,9.5911,-44.4288,13111.744734,916.5947340000002
+269,2022-04-01,Europa,Francia,Ciudad_4,Ropa,Camisa,Distribuidor,Vendedor_6,17,434.43,14.18,329.51,8,Tarjeta,2022,Marzo,Sábado,30.2897,-64.5438,6338.073042,736.4030419999999
+270,2022-01-24,Europa,Alemania,Ciudad_1,Juguetes,Auto de juguete,Tienda,Vendedor_15,26,234.31,24.38,193.55,1,Tarjeta,2022,Junio,Lunes,-47.8543,44.8641,4606.815772,-425.48422800000026
+271,2022-06-05,Asia,China,Ciudad_24,Juguetes,Puzzle,Online,Vendedor_10,10,707.63,6.03,420.13,1,Transferencia,2022,Febrero,Domingo,-48.1426,-50.8316,6649.59911,2448.29911
+272,2022-12-03,Asia,Corea del Sur,Ciudad_2,Juguetes,Muñeca,Online,Vendedor_15,54,789.33,19.35,598.49,5,Efectivo,2022,Junio,Sábado,38.8869,60.7463,34376.11083,2057.6508299999987
+273,2021-12-03,Asia,China,Ciudad_26,Ropa,Pantalón,Tienda,Vendedor_2,46,792.95,8.68,650.45,1,Transferencia,2021,Noviembre,Domingo,-24.304,-43.948,33309.609240000005,3388.9092400000045
+274,2022-12-25,África,Egipto,Ciudad_12,Electrónica,Laptop,Tienda,Vendedor_10,4,215.51,21.31,117.16,1,Tarjeta,2022,Marzo,Martes,19.2808,-81.1689,678.339276,209.69927600000005
+275,2023-11-08,América,México,Ciudad_8,Juguetes,Pelota,Distribuidor,Vendedor_8,75,251.83,29.8,164.08,5,Efectivo,2023,Julio,Miércoles,-38.4044,9.8532,13258.849499999998,952.8494999999966
+276,2023-08-26,Europa,Italia,Ciudad_5,Hogar,Mesa,Distribuidor,Vendedor_2,50,441.36,27.72,220.68,3,Transferencia,2023,Octubre,Miércoles,40.939,53.0608,15950.7504,4916.750400000001
+277,2022-01-03,América,EEUU,Ciudad_8,Hogar,Mesa,Tienda,Vendedor_12,61,597.47,10.03,384.85,6,Efectivo,2022,Julio,Martes,-34.609,6.456,32790.169298999994,9314.319298999992
+278,2021-07-13,América,México,Ciudad_26,Alimentos,Queso,Distribuidor,Vendedor_8,46,33.79,2.47,18.34,4,Efectivo,2021,Enero,Sábado,-38.9111,-4.7379,1515.947802,672.3078019999999
+279,2023-12-17,Asia,China,Ciudad_6,Electrónica,Televisor,Tienda,Vendedor_11,2,534.27,19.24,369.11,4,Transferencia,2023,Octubre,Domingo,-15.7959,-65.6413,862.952904,124.73290399999996
+280,2021-05-18,América,EEUU,Ciudad_10,Electrónica,Televisor,Online,Vendedor_7,51,783.31,10.74,556.03,2,Transferencia,2021,Agosto,Lunes,24.9858,-69.8992,35658.307806,7300.777805999998
+281,2021-09-18,África,Nigeria,Ciudad_9,Electrónica,Televisor,Online,Vendedor_14,41,39.49,12.94,25.42,5,Tarjeta,2021,Febrero,Martes,-43.1986,-75.1902,1409.579754,367.35975400000007
+282,2023-03-10,Europa,Italia,Ciudad_17,Hogar,Silla,Online,Vendedor_15,49,430.59,0.24,320.7,6,Tarjeta,2023,Enero,Martes,-14.7437,83.2671,21048.272616000002,5333.972616000003
+283,2023-10-21,Europa,Italia,Ciudad_22,Electrónica,Televisor,Online,Vendedor_8,46,706.58,28.77,577.74,5,Efectivo,2023,Mayo,Viernes,20.0641,9.429,23151.658964,-3424.3810360000025
+284,2021-12-13,Asia,Japón,Ciudad_7,Hogar,Silla,Online,Vendedor_6,55,490.64,17.62,286.1,6,Tarjeta,2021,Enero,Martes,8.4534,-66.7547,22230.40776,6494.907759999996
+285,2022-01-10,Asia,China,Ciudad_19,Electrónica,Auriculares,Online,Vendedor_9,12,194.32,20.63,126.7,1,Efectivo,2022,Junio,Miércoles,9.3657,-64.3841,1850.7814080000003,330.3814080000002
+286,2023-11-08,América,Brasil,Ciudad_23,Hogar,Silla,Distribuidor,Vendedor_14,74,275.81,14.87,223.73,10,Tarjeta,2023,Julio,Miércoles,9.7102,0.0668,17374.981922,818.9619219999986
+287,2021-12-25,Asia,China,Ciudad_21,Ropa,Chaqueta,Distribuidor,Vendedor_13,65,372.56,10.87,311.98,9,Transferencia,2021,Febrero,Lunes,47.4024,-93.6534,21584.07732,1305.3773199999996
+288,2022-08-01,África,Marruecos,Ciudad_24,Electrónica,Televisor,Distribuidor,Vendedor_10,45,278.36,18.96,148.49,9,Transferencia,2022,Octubre,Lunes,-5.9653,-37.6018,10151.23248,3469.1824800000004
+289,2021-10-18,América,EEUU,Ciudad_14,Hogar,Mesa,Distribuidor,Vendedor_15,35,153.69,14.69,84.86,4,Tarjeta,2021,Julio,Sábado,-30.9721,32.668,4588.952864999999,1618.8528649999994
+290,2021-07-14,América,México,Ciudad_4,Juguetes,Auto de juguete,Tienda,Vendedor_13,19,623.23,1.81,467.86,1,Tarjeta,2021,Julio,Viernes,-2.6845,9.2773,11627.041203,2737.7012030000005
+291,2021-11-11,Asia,China,Ciudad_16,Juguetes,Puzzle,Tienda,Vendedor_4,40,748.26,9.97,550.04,7,Efectivo,2021,Marzo,Miércoles,49.8421,84.6812,26946.33912,4944.739120000002
+292,2021-05-07,América,EEUU,Ciudad_28,Electrónica,Smartphone,Distribuidor,Vendedor_15,13,328.16,1.26,215.15,10,Tarjeta,2021,Enero,Martes,-31.6999,-17.6363,4212.327392,1415.3773919999999
+293,2023-08-09,África,Marruecos,Ciudad_16,Hogar,Silla,Tienda,Vendedor_1,23,229.2,13.46,172.02,9,Tarjeta,2023,Septiembre,Martes,18.4033,-82.1703,4562.04264,605.5826399999996
+294,2022-10-10,África,Marruecos,Ciudad_8,Juguetes,Auto de juguete,Tienda,Vendedor_2,59,594.79,13.49,481.1,7,Efectivo,2022,Junio,Sábado,42.4054,-25.497,30358.616911,1973.7169109999995
+295,2023-01-17,Asia,India,Ciudad_28,Juguetes,Auto de juguete,Tienda,Vendedor_9,77,201.87,2.08,143.35,5,Efectivo,2023,Junio,Miércoles,28.9447,-2.4998,15220.675007999998,4182.725007999999
+296,2023-07-18,Asia,Japón,Ciudad_18,Electrónica,Smartphone,Distribuidor,Vendedor_13,67,161.0,3.75,121.87,10,Transferencia,2023,Marzo,Domingo,-49.9373,-37.8697,10382.487500000001,2217.197500000001
+297,2022-11-06,Asia,Japón,Ciudad_18,Hogar,Cama,Tienda,Vendedor_2,48,490.69,25.48,384.57,5,Efectivo,2022,Septiembre,Sábado,-24.5678,-8.5167,17551.785023999997,-907.5749760000035
+298,2022-04-09,África,Egipto,Ciudad_14,Electrónica,Televisor,Distribuidor,Vendedor_8,64,770.44,21.04,441.61,10,Efectivo,2022,Marzo,Martes,-23.4818,35.2288,38933.723136,10670.683136
+299,2023-01-10,Europa,Italia,Ciudad_20,Ropa,Chaqueta,Distribuidor,Vendedor_6,45,516.83,13.0,429.33,4,Tarjeta,2023,Julio,Miércoles,8.4294,79.3602,20233.894500000002,914.0445000000036
+300,2021-04-12,Europa,España,Ciudad_22,Hogar,Lámpara,Distribuidor,Vendedor_5,24,552.91,4.74,418.16,9,Efectivo,2021,Noviembre,Domingo,-0.958,-47.2531,12640.849584,2605.0095839999994
+301,2023-08-13,Europa,España,Ciudad_26,Alimentos,Queso,Online,Vendedor_12,50,57.01,28.76,31.17,3,Transferencia,2023,Julio,Viernes,27.643,92.7137,2030.6961999999999,472.19619999999986
+302,2022-04-07,Europa,Italia,Ciudad_30,Electrónica,Laptop,Online,Vendedor_7,37,622.25,22.68,425.05,6,Transferencia,2022,Octubre,Lunes,-28.2256,-12.8166,17801.5769,2074.7268999999997
+303,2021-05-23,América,EEUU,Ciudad_13,Hogar,Cama,Tienda,Vendedor_2,80,93.06,13.61,77.21,2,Tarjeta,2021,Noviembre,Lunes,-7.8372,-0.2984,6431.56272,254.76272000000063
+304,2021-02-18,Asia,Corea del Sur,Ciudad_19,Juguetes,Pelota,Tienda,Vendedor_1,24,363.02,6.92,303.67,7,Efectivo,2021,Septiembre,Domingo,21.5761,-3.684,8109.576383999999,821.4963839999991
+305,2021-01-27,África,Nigeria,Ciudad_12,Alimentos,Pan,Online,Vendedor_15,65,785.14,19.61,629.46,7,Tarjeta,2021,Septiembre,Jueves,8.2275,-10.9102,41026.31299,111.41298999999708
+306,2023-05-23,América,Argentina,Ciudad_14,Juguetes,Auto de juguete,Online,Vendedor_8,19,303.22,7.04,167.45,4,Transferencia,2023,Noviembre,Martes,8.878,24.8352,5355.592928,2174.0429280000003
+307,2022-05-28,África,Sudáfrica,Ciudad_17,Juguetes,Pelota,Tienda,Vendedor_15,3,338.31,19.01,179.02,10,Transferencia,2022,Diciembre,Martes,19.0695,31.5982,821.991807,284.93180699999994
+308,2022-06-08,Asia,Japón,Ciudad_10,Alimentos,Cereal,Tienda,Vendedor_5,11,410.03,0.36,240.94,3,Tarjeta,2022,Septiembre,Lunes,-38.4764,61.6226,4494.092812,1843.7528119999997
+309,2022-01-06,América,Brasil,Ciudad_21,Juguetes,Auto de juguete,Online,Vendedor_9,40,602.63,14.49,473.54,2,Transferencia,2022,Agosto,Domingo,25.4759,-98.3485,20612.35652,1670.756519999999
+310,2023-12-13,Asia,Corea del Sur,Ciudad_10,Juguetes,Puzzle,Distribuidor,Vendedor_11,3,452.1,17.79,273.23,9,Transferencia,2023,Noviembre,Jueves,-42.9061,-63.9084,1115.0142300000002,295.32423000000017
+311,2021-09-15,América,México,Ciudad_4,Alimentos,Queso,Tienda,Vendedor_8,73,9.66,17.61,6.01,5,Transferencia,2021,Marzo,Sábado,40.4804,71.8703,580.997802,142.26780200000002
+312,2023-06-24,Asia,China,Ciudad_4,Hogar,Mesa,Distribuidor,Vendedor_10,77,33.95,27.53,20.59,4,Efectivo,2023,Febrero,Lunes,-44.8464,-37.3282,1894.4745050000001,309.0445050000001
+313,2023-07-07,Europa,Alemania,Ciudad_19,Hogar,Mesa,Online,Vendedor_12,4,555.95,12.93,280.59,6,Efectivo,2023,Diciembre,Lunes,-29.961,-1.2771,1936.2626600000003,813.9026600000004
+314,2023-03-24,Asia,China,Ciudad_17,Electrónica,Auriculares,Distribuidor,Vendedor_1,60,159.88,5.91,128.53,1,Transferencia,2023,Febrero,Miércoles,-6.5327,23.0736,9025.86552,1314.0655199999992
+315,2021-11-10,Europa,Francia,Ciudad_2,Juguetes,Puzzle,Distribuidor,Vendedor_4,61,80.95,21.88,62.72,5,Efectivo,2021,Abril,Sábado,48.7799,67.0342,3857.52654,31.606539999999768
+316,2022-07-12,Asia,Corea del Sur,Ciudad_6,Hogar,Mesa,Online,Vendedor_14,12,703.61,9.76,582.06,2,Efectivo,2022,Enero,Martes,6.4274,-0.17,7619.251968,634.5319680000002
+317,2021-07-04,Asia,India,Ciudad_28,Hogar,Cama,Online,Vendedor_12,34,319.64,7.13,195.65,10,Tarjeta,2021,Agosto,Martes,0.0619,41.7684,10092.888712,3440.7887119999996
+318,2021-12-10,Asia,Corea del Sur,Ciudad_1,Electrónica,Laptop,Online,Vendedor_7,15,743.47,12.16,553.09,3,Efectivo,2021,Mayo,Jueves,6.8269,-53.4199,9795.960720000001,1499.6107200000006
+319,2023-04-18,América,Brasil,Ciudad_1,Ropa,Camisa,Distribuidor,Vendedor_7,5,582.08,8.04,408.66,1,Tarjeta,2023,Octubre,Viernes,-4.742,-10.0913,2676.40384,633.1038399999998
+320,2021-10-22,América,EEUU,Ciudad_6,Electrónica,Auriculares,Online,Vendedor_6,12,670.59,20.41,584.9,2,Tarjeta,2021,Mayo,Jueves,-3.1319,90.8985,6404.670972000001,-614.1290279999985
+321,2021-01-22,Asia,Corea del Sur,Ciudad_22,Electrónica,Televisor,Tienda,Vendedor_8,76,434.5,14.82,325.89,1,Efectivo,2021,Diciembre,Viernes,41.4989,62.5871,28128.1396,3360.499599999999
+322,2021-03-28,Asia,China,Ciudad_1,Electrónica,Laptop,Online,Vendedor_15,23,186.26,25.22,97.2,5,Efectivo,2021,Febrero,Lunes,11.2968,-85.0185,3203.560244,967.9602439999999
+323,2021-09-25,Asia,Japón,Ciudad_7,Juguetes,Puzzle,Distribuidor,Vendedor_4,61,227.83,2.18,185.46,4,Efectivo,2021,Diciembre,Martes,26.0481,21.7624,13594.661666,2281.6016659999987
+324,2022-02-13,Asia,India,Ciudad_5,Electrónica,Smartphone,Online,Vendedor_11,17,636.39,19.54,541.16,8,Transferencia,2022,Julio,Martes,-14.0909,-40.4282,8704.669698,-495.05030199999965
+325,2022-02-23,América,Brasil,Ciudad_4,Alimentos,Cereal,Tienda,Vendedor_1,38,548.12,0.97,378.89,4,Efectivo,2022,Agosto,Jueves,-42.6529,-94.505,20626.522968,6228.702968000001
+326,2023-11-02,América,Argentina,Ciudad_25,Hogar,Lámpara,Distribuidor,Vendedor_11,38,726.88,0.83,578.88,2,Efectivo,2023,Abril,Jueves,26.3628,70.9112,27392.182048,5394.742048
+327,2023-06-21,América,Brasil,Ciudad_30,Electrónica,Laptop,Online,Vendedor_7,33,163.74,3.09,118.87,4,Efectivo,2023,Marzo,Lunes,48.2122,-38.397,5236.454322,1313.7443219999996
+328,2021-11-13,Asia,India,Ciudad_22,Hogar,Silla,Distribuidor,Vendedor_1,33,742.13,4.14,567.92,7,Transferencia,2021,Octubre,Lunes,23.4126,-8.9872,23476.391994,4735.0319940000045
+329,2023-03-21,América,EEUU,Ciudad_30,Hogar,Mesa,Online,Vendedor_11,44,363.69,14.11,238.34,3,Efectivo,2023,Marzo,Viernes,-31.2195,-63.9858,13744.427004000001,3257.467004
+330,2023-11-20,Asia,Corea del Sur,Ciudad_7,Electrónica,Televisor,Online,Vendedor_2,12,196.35,13.51,151.39,2,Efectivo,2023,Junio,Sábado,-8.9751,-59.3525,2037.87738,221.19738000000007
+331,2023-09-07,América,Brasil,Ciudad_29,Ropa,Chaqueta,Distribuidor,Vendedor_12,69,426.01,1.42,322.06,2,Efectivo,2023,Octubre,Martes,-36.0446,36.4625,28977.285401999998,6755.145401999998
+332,2022-04-12,Asia,Corea del Sur,Ciudad_27,Juguetes,Muñeca,Distribuidor,Vendedor_7,57,241.12,28.91,150.35,4,Tarjeta,2022,Enero,Domingo,43.2912,-19.7785,9770.495856,1200.5458560000006
+333,2021-02-09,África,Egipto,Ciudad_10,Ropa,Camisa,Distribuidor,Vendedor_9,49,633.88,15.17,326.96,8,Transferencia,2021,Diciembre,Viernes,47.5927,-64.2563,26348.299796,10327.259796
+334,2023-05-27,África,Marruecos,Ciudad_5,Juguetes,Puzzle,Distribuidor,Vendedor_7,49,682.01,8.64,369.07,9,Transferencia,2023,Agosto,Domingo,27.8964,6.2501,30531.132464,12446.702463999998
+335,2021-09-19,África,Sudáfrica,Ciudad_12,Hogar,Silla,Distribuidor,Vendedor_7,40,529.78,24.41,454.24,7,Tarjeta,2021,Julio,Domingo,-43.102,-14.5358,16018.428079999998,-2151.1719200000007
+336,2021-08-09,África,Marruecos,Ciudad_16,Electrónica,Televisor,Distribuidor,Vendedor_14,60,490.71,15.12,361.48,5,Efectivo,2021,Diciembre,Miércoles,19.9875,44.302,24990.87888,3302.0788799999973
+337,2021-03-28,África,Sudáfrica,Ciudad_12,Hogar,Mesa,Distribuidor,Vendedor_11,45,747.54,7.82,590.76,3,Tarjeta,2021,Marzo,Lunes,-4.7218,41.9295,31008.706739999994,4424.506739999993
+338,2021-07-06,África,Egipto,Ciudad_17,Hogar,Mesa,Tienda,Vendedor_10,64,341.92,21.35,257.38,1,Transferencia,2021,Julio,Viernes,24.743,25.2309,17210.88512,738.5651199999993
+339,2023-06-16,África,Nigeria,Ciudad_30,Alimentos,Leche,Distribuidor,Vendedor_10,37,456.74,6.46,244.78,4,Tarjeta,2023,Agosto,Domingo,-9.9262,71.1874,15807.680052000002,6750.820052000001
+340,2022-02-22,América,Brasil,Ciudad_23,Electrónica,Laptop,Tienda,Vendedor_13,78,389.62,12.02,273.44,8,Efectivo,2022,Septiembre,Sábado,-40.6333,-15.4019,26737.438728,5409.118728000001
+341,2021-12-19,Asia,China,Ciudad_30,Electrónica,Laptop,Tienda,Vendedor_5,32,99.79,27.14,71.33,8,Tarjeta,2021,Abril,Domingo,7.6754,75.0831,2326.623808,44.06380799999988
+342,2021-09-05,África,Nigeria,Ciudad_30,Juguetes,Auto de juguete,Online,Vendedor_4,13,310.39,26.38,185.05,8,Transferencia,2021,Marzo,Lunes,-3.8583,17.6389,2970.6185339999997,564.9685339999996
+343,2022-02-22,Europa,Francia,Ciudad_14,Electrónica,Laptop,Distribuidor,Vendedor_15,27,770.68,9.32,463.07,8,Transferencia,2022,Enero,Sábado,30.6181,-52.3946,18869.020847999996,6366.130847999997
+344,2023-04-08,África,Egipto,Ciudad_13,Hogar,Cama,Tienda,Vendedor_4,71,566.27,0.89,308.74,8,Transferencia,2023,Marzo,Domingo,-21.6505,-2.82,39847.343987,17926.803987
+345,2022-12-04,África,Marruecos,Ciudad_11,Electrónica,Smartphone,Distribuidor,Vendedor_12,39,730.71,20.03,519.62,2,Tarjeta,2022,Agosto,Miércoles,14.1433,72.6327,22789.602693,2524.4226930000004
+346,2022-07-14,Europa,España,Ciudad_17,Hogar,Mesa,Distribuidor,Vendedor_12,70,267.04,1.33,157.52,4,Tarjeta,2022,Marzo,Martes,22.9893,74.9151,18444.185760000004,7417.7857600000025
+347,2023-05-23,Europa,Alemania,Ciudad_1,Alimentos,Queso,Online,Vendedor_8,54,400.39,1.54,355.27,7,Tarjeta,2023,Febrero,Martes,-13.6112,67.3824,21288.095675999997,2103.515675999999
+348,2021-12-23,América,Brasil,Ciudad_25,Ropa,Pantalón,Online,Vendedor_7,39,609.6,21.91,457.21,5,Transferencia,2021,Junio,Martes,29.784,78.7267,18565.42896,734.2389600000024
+349,2023-03-11,África,Marruecos,Ciudad_22,Electrónica,Smartphone,Tienda,Vendedor_11,27,308.74,2.99,210.44,3,Transferencia,2023,Octubre,Domingo,27.3574,-79.6941,8086.734197999999,2404.854197999999
+350,2023-10-15,Asia,China,Ciudad_27,Hogar,Lámpara,Online,Vendedor_12,33,405.27,14.53,355.32,2,Efectivo,2023,Enero,Domingo,-12.3934,-76.9811,11430.680877,-294.8791229999988
+351,2021-09-20,América,Argentina,Ciudad_5,Hogar,Cama,Online,Vendedor_15,40,604.12,15.21,495.29,8,Transferencia,2021,Abril,Sábado,-48.8704,21.5067,20489.333919999997,677.7339199999951
+352,2021-09-02,América,EEUU,Ciudad_20,Ropa,Pantalón,Distribuidor,Vendedor_3,27,311.58,5.3,178.52,1,Efectivo,2021,Mayo,Jueves,45.1603,-68.6076,7966.789019999999,3146.7490199999993
+353,2022-09-23,Asia,Japón,Ciudad_12,Electrónica,Laptop,Online,Vendedor_3,76,237.0,5.98,161.98,10,Efectivo,2022,Febrero,Martes,-43.4216,-39.249,16934.882400000002,4624.402400000003
+354,2022-09-17,Asia,Corea del Sur,Ciudad_30,Electrónica,Auriculares,Distribuidor,Vendedor_3,24,25.56,24.0,12.92,4,Transferencia,2022,Enero,Lunes,-17.9365,-46.8392,466.21439999999996,156.13439999999997
+355,2021-03-05,América,Brasil,Ciudad_30,Alimentos,Queso,Distribuidor,Vendedor_15,73,511.49,11.06,396.42,2,Tarjeta,2021,Octubre,Jueves,12.5028,-22.1965,33209.102038000005,4270.442038000005
+356,2023-09-16,Europa,Alemania,Ciudad_9,Electrónica,Laptop,Distribuidor,Vendedor_6,73,350.79,11.53,255.42,6,Efectivo,2023,Marzo,Domingo,-24.812,-94.5513,22655.105649,4009.445649000001
+357,2023-03-09,Asia,Japón,Ciudad_24,Juguetes,Pelota,Online,Vendedor_6,60,237.99,16.13,132.13,5,Efectivo,2023,Septiembre,Viernes,48.0613,-82.7262,11976.132780000002,4048.3327800000025
+358,2021-10-15,Europa,Italia,Ciudad_30,Juguetes,Auto de juguete,Online,Vendedor_1,39,341.33,29.35,275.89,6,Efectivo,2021,Febrero,Miércoles,-47.7459,-20.9961,9404.836154999997,-1354.873845000002
+359,2022-09-26,América,México,Ciudad_11,Ropa,Camisa,Online,Vendedor_13,16,759.92,2.09,569.24,3,Transferencia,2022,Noviembre,Lunes,-34.9442,68.2634,11904.602751999999,2796.7627519999987
+360,2021-06-07,América,Argentina,Ciudad_18,Ropa,Camisa,Distribuidor,Vendedor_10,73,206.77,27.38,149.32,1,Efectivo,2021,Agosto,Lunes,41.0355,76.2273,10961.415302,61.055302000000665
+361,2022-06-26,América,Argentina,Ciudad_23,Ropa,Camisa,Distribuidor,Vendedor_7,22,759.61,10.98,388.96,3,Efectivo,2022,Noviembre,Jueves,-15.0162,57.541,14876.506084000002,6319.386084000003
+362,2023-02-22,América,Argentina,Ciudad_19,Juguetes,Puzzle,Tienda,Vendedor_4,80,398.2,27.93,279.59,2,Tarjeta,2023,Noviembre,Viernes,-7.0169,59.6807,22958.6192,591.4192000000039
+363,2022-05-15,Asia,Japón,Ciudad_18,Ropa,Pantalón,Distribuidor,Vendedor_10,61,494.12,4.57,419.52,10,Efectivo,2022,Septiembre,Sábado,1.6986,62.7622,28763.861676,3173.141676000003
+364,2021-11-18,América,EEUU,Ciudad_20,Alimentos,Queso,Distribuidor,Vendedor_13,53,487.14,8.37,286.18,10,Efectivo,2021,Marzo,Jueves,-17.8078,-95.2751,23657.418245999997,8489.878245999997
+365,2022-08-09,África,Marruecos,Ciudad_2,Ropa,Zapatos,Distribuidor,Vendedor_6,38,157.44,2.23,91.37,7,Tarjeta,2022,Agosto,Viernes,1.4468,72.4029,5849.305344,2377.245344
+366,2022-01-23,África,Sudáfrica,Ciudad_17,Hogar,Cama,Distribuidor,Vendedor_13,74,512.81,25.97,383.57,1,Tarjeta,2022,Enero,Sábado,-34.1535,79.7492,28092.859981999994,-291.3200180000058
+367,2022-11-24,África,Egipto,Ciudad_14,Hogar,Cama,Tienda,Vendedor_5,35,436.96,26.4,238.62,10,Tarjeta,2022,Octubre,Sábado,47.4388,-85.1074,11256.0896,2904.3895999999986
+368,2022-02-16,Europa,Alemania,Ciudad_26,Alimentos,Pan,Tienda,Vendedor_7,80,664.0,17.97,570.59,6,Efectivo,2022,Julio,Lunes,-49.58,-65.3792,43574.336,-2072.8640000000014
+369,2022-02-09,América,EEUU,Ciudad_20,Ropa,Pantalón,Distribuidor,Vendedor_2,64,284.34,28.64,210.84,6,Transferencia,2022,Noviembre,Lunes,48.3502,2.6873,12985.921536,-507.8384640000004
+370,2023-10-12,África,Egipto,Ciudad_4,Alimentos,Queso,Online,Vendedor_11,4,471.84,29.46,243.59,1,Efectivo,2023,Agosto,Viernes,0.5353,-76.8333,1331.343744,356.983744
+371,2021-09-08,Europa,Alemania,Ciudad_11,Alimentos,Cereal,Distribuidor,Vendedor_10,12,88.68,2.35,62.04,2,Transferencia,2021,Junio,Martes,49.6494,84.1517,1039.1522400000001,294.6722400000001
+372,2023-02-13,África,Marruecos,Ciudad_9,Alimentos,Leche,Distribuidor,Vendedor_1,31,358.4,15.47,277.98,4,Tarjeta,2023,Agosto,Jueves,18.6013,33.2789,9391.62112,774.2411199999988
+373,2022-07-15,Europa,Italia,Ciudad_19,Hogar,Lámpara,Tienda,Vendedor_8,32,565.7,8.92,480.07,4,Efectivo,2022,Octubre,Viernes,27.0382,59.0779,16487.665920000003,1125.4259200000033
+374,2023-12-21,Asia,China,Ciudad_1,Alimentos,Queso,Distribuidor,Vendedor_11,70,692.13,6.12,415.93,9,Efectivo,2023,Agosto,Domingo,38.1625,13.6422,45484.01508,16368.915079999995
+375,2021-09-26,Asia,Corea del Sur,Ciudad_3,Electrónica,Auriculares,Online,Vendedor_8,75,299.96,28.83,205.41,5,Efectivo,2021,Enero,Jueves,3.5513,-89.1524,16011.1149,605.3649000000005
+376,2021-05-14,Europa,Francia,Ciudad_20,Hogar,Mesa,Online,Vendedor_9,62,510.27,13.26,370.18,2,Tarjeta,2021,Enero,Viernes,-20.1624,-25.5083,27441.708275999998,4490.548275999998
+377,2023-11-21,África,Sudáfrica,Ciudad_19,Hogar,Mesa,Distribuidor,Vendedor_11,25,103.6,8.95,63.83,2,Transferencia,2023,Diciembre,Viernes,-36.8823,-52.0228,2358.195,762.4450000000002
+378,2022-01-21,América,Brasil,Ciudad_15,Juguetes,Pelota,Online,Vendedor_5,14,484.37,23.75,251.73,9,Tarjeta,2022,Abril,Domingo,28.2981,-28.5077,5170.64975,1646.4297499999998
+379,2022-11-02,África,Nigeria,Ciudad_7,Juguetes,Muñeca,Online,Vendedor_15,9,167.43,21.47,90.49,5,Efectivo,2022,Abril,Jueves,-17.5526,84.2048,1183.345011,368.93501100000015
+380,2021-08-19,América,Brasil,Ciudad_16,Juguetes,Puzzle,Distribuidor,Vendedor_8,23,224.24,29.26,201.07,4,Tarjeta,2021,Junio,Sábado,27.9932,85.9394,3648.4296480000003,-976.1803519999994
+381,2021-12-16,Europa,Francia,Ciudad_18,Hogar,Mesa,Tienda,Vendedor_11,17,431.68,23.43,344.32,7,Transferencia,2021,Noviembre,Miércoles,-5.9644,-22.4958,5619.135392000001,-234.30460799999855
+382,2021-08-19,América,Brasil,Ciudad_1,Ropa,Zapatos,Tienda,Vendedor_4,21,408.08,6.17,205.78,5,Transferencia,2021,Octubre,Miércoles,-46.8765,-50.1135,8040.930744,3719.550744
+383,2023-07-10,Europa,Francia,Ciudad_1,Electrónica,Auriculares,Online,Vendedor_6,60,180.95,26.84,93.44,8,Efectivo,2023,Enero,Viernes,-49.1237,-32.5037,7942.9812,2336.5812000000005
+384,2022-01-13,América,EEUU,Ciudad_14,Hogar,Silla,Online,Vendedor_9,64,795.56,24.62,708.62,6,Efectivo,2022,Noviembre,Sábado,-49.5905,52.7347,38380.360192,-6971.319808
+385,2022-01-04,África,Egipto,Ciudad_13,Electrónica,Televisor,Distribuidor,Vendedor_15,49,166.3,19.98,121.33,4,Tarjeta,2022,Septiembre,Sábado,46.2138,-6.9083,6520.58974,575.4197400000003
+386,2022-08-13,Asia,Japón,Ciudad_8,Alimentos,Leche,Distribuidor,Vendedor_8,44,652.69,12.67,382.58,1,Efectivo,2022,Julio,Domingo,-6.2673,-33.6157,25079.743788,8246.223788
+387,2022-10-11,Europa,Italia,Ciudad_25,Juguetes,Auto de juguete,Tienda,Vendedor_3,75,589.11,27.72,497.45,1,Transferencia,2022,Noviembre,Jueves,-35.0367,91.7272,31935.6531,-5373.0969000000005
+388,2021-03-25,África,Sudáfrica,Ciudad_28,Alimentos,Queso,Online,Vendedor_12,69,109.71,27.56,82.69,7,Tarjeta,2021,Junio,Viernes,37.3595,66.6548,5483.700755999999,-221.9092440000004
+389,2022-08-26,Europa,Francia,Ciudad_22,Juguetes,Pelota,Online,Vendedor_5,39,709.6,1.05,567.69,4,Tarjeta,2022,Julio,Jueves,-26.1762,2.5291,27383.8188,5243.908799999997
+390,2022-08-25,América,México,Ciudad_6,Electrónica,Smartphone,Distribuidor,Vendedor_9,22,217.54,20.8,140.51,6,Transferencia,2022,Noviembre,Viernes,33.7735,59.9926,3790.4169600000005,699.1969600000007
+391,2021-04-28,Asia,India,Ciudad_26,Hogar,Cama,Distribuidor,Vendedor_2,2,759.63,6.25,395.5,9,Tarjeta,2021,Julio,Viernes,2.761,-44.7362,1424.30625,633.3062500000001
+392,2022-12-17,África,Marruecos,Ciudad_10,Ropa,Zapatos,Tienda,Vendedor_5,74,645.09,23.23,412.89,4,Transferencia,2022,Marzo,Martes,-34.4911,11.5819,36647.433882000005,6093.573882000004
+393,2023-04-10,América,Brasil,Ciudad_2,Ropa,Zapatos,Distribuidor,Vendedor_15,73,47.93,11.66,33.9,9,Efectivo,2023,Marzo,Miércoles,3.512,-91.4332,3090.919426,616.2194260000001
+394,2023-04-05,Europa,España,Ciudad_7,Electrónica,Televisor,Online,Vendedor_6,32,583.76,12.3,508.96,2,Efectivo,2023,Diciembre,Viernes,-43.3804,32.8969,16382.64064,95.92064000000028
+395,2022-09-02,América,México,Ciudad_1,Hogar,Mesa,Tienda,Vendedor_14,60,649.18,20.81,428.18,6,Transferencia,2022,Marzo,Sábado,44.7116,-35.5127,30845.138519999997,5154.3385199999975
+396,2023-05-02,Europa,Alemania,Ciudad_1,Electrónica,Televisor,Tienda,Vendedor_1,6,576.48,16.55,500.62,3,Tarjeta,2023,Enero,Jueves,3.103,-26.2579,2886.43536,-117.28464000000031
+397,2021-07-12,Europa,Francia,Ciudad_21,Electrónica,Auriculares,Tienda,Vendedor_6,67,150.91,27.15,114.2,1,Tarjeta,2021,Febrero,Miércoles,-11.9736,-86.2729,7365.8416449999995,-285.55835500000103
+398,2022-09-13,África,Egipto,Ciudad_12,Ropa,Pantalón,Distribuidor,Vendedor_14,38,547.48,1.69,329.23,6,Efectivo,2022,Junio,Jueves,-8.0474,49.1011,20452.648344,7941.9083439999995
+399,2023-11-22,América,México,Ciudad_15,Electrónica,Televisor,Online,Vendedor_14,72,107.2,1.94,83.54,1,Tarjeta,2023,Junio,Miércoles,-29.4139,97.1262,7568.66304,1553.7830400000003
+400,2021-06-27,América,México,Ciudad_17,Hogar,Lámpara,Online,Vendedor_1,42,199.89,10.01,156.38,6,Transferencia,2021,Septiembre,Viernes,10.9362,12.916,7555.0024619999995,987.0424619999994
+401,2023-02-18,América,EEUU,Ciudad_18,Ropa,Camisa,Distribuidor,Vendedor_4,53,99.77,16.63,79.53,3,Transferencia,2023,Enero,Miércoles,7.3707,-0.7342,4408.4471969999995,193.35719699999936
+402,2023-10-22,Asia,China,Ciudad_1,Ropa,Camisa,Tienda,Vendedor_14,66,167.37,5.51,139.62,5,Efectivo,2023,Marzo,Martes,-37.8077,41.9076,10437.762257999999,1222.8422579999988
+403,2022-06-19,América,Brasil,Ciudad_17,Hogar,Lámpara,Online,Vendedor_12,54,685.38,11.45,562.97,4,Tarjeta,2022,Mayo,Jueves,-25.8628,69.8601,32772.81546,2372.435459999997
+404,2022-06-14,Asia,China,Ciudad_30,Hogar,Lámpara,Tienda,Vendedor_12,64,648.14,29.31,393.91,8,Efectivo,2022,Octubre,Martes,30.2992,-86.3844,29322.890624000003,4112.650624000002
+405,2021-05-13,América,México,Ciudad_15,Hogar,Silla,Online,Vendedor_14,37,100.19,29.92,83.76,10,Efectivo,2021,Febrero,Miércoles,-9.5177,-78.1415,2597.8866239999998,-501.2333760000006
+406,2021-10-20,Europa,España,Ciudad_7,Electrónica,Laptop,Tienda,Vendedor_12,32,656.16,1.85,577.19,2,Tarjeta,2021,Agosto,Viernes,4.4446,-22.9544,20608.67328,2138.5932799999973
+407,2021-04-11,América,Brasil,Ciudad_3,Alimentos,Queso,Distribuidor,Vendedor_14,50,188.03,6.59,154.78,1,Transferencia,2021,Mayo,Lunes,-29.2092,-22.829,8781.94115,1042.9411500000006
+408,2022-06-21,África,Nigeria,Ciudad_29,Electrónica,Televisor,Tienda,Vendedor_3,39,533.62,8.07,299.29,8,Efectivo,2022,Julio,Jueves,-4.825,-14.5617,19131.717774,7459.407773999999
+409,2021-07-10,África,Nigeria,Ciudad_27,Alimentos,Queso,Tienda,Vendedor_8,48,133.3,10.02,74.09,5,Efectivo,2021,Mayo,Viernes,-39.9973,-81.046,5757.280320000001,2200.9603200000006
+410,2021-08-28,Europa,Italia,Ciudad_14,Ropa,Camisa,Distribuidor,Vendedor_13,80,779.67,0.87,527.95,4,Transferencia,2021,Marzo,Viernes,-0.7153,-35.6014,61830.94968,19594.949679999998
+411,2023-06-14,África,Nigeria,Ciudad_19,Alimentos,Leche,Tienda,Vendedor_6,5,65.31,14.59,40.59,3,Tarjeta,2023,Mayo,Viernes,-23.0691,-74.638,278.906355,75.956355
+412,2022-02-11,África,Nigeria,Ciudad_13,Juguetes,Muñeca,Online,Vendedor_15,76,171.26,7.01,99.91,1,Transferencia,2022,Octubre,Domingo,-13.5695,51.6009,12103.355223999997,4510.195223999997
+413,2021-05-03,África,Sudáfrica,Ciudad_17,Alimentos,Pan,Tienda,Vendedor_5,2,711.37,25.85,471.1,4,Efectivo,2021,Julio,Viernes,-25.1289,-30.2775,1054.96171,112.76171
+414,2021-07-25,África,Egipto,Ciudad_28,Alimentos,Pan,Distribuidor,Vendedor_6,62,269.48,14.4,178.96,10,Efectivo,2021,Enero,Jueves,-29.87,99.8133,14301.842560000001,3206.3225600000005
+415,2021-03-21,África,Marruecos,Ciudad_11,Alimentos,Queso,Online,Vendedor_3,47,759.2,16.06,539.4,9,Tarjeta,2021,Diciembre,Domingo,7.8061,77.8141,29951.80656,4600.006560000002
+416,2021-08-14,Europa,Italia,Ciudad_9,Ropa,Pantalón,Tienda,Vendedor_12,60,210.68,7.72,153.81,7,Efectivo,2021,Junio,Domingo,-48.5432,-84.1904,11664.930240000002,2436.330240000001
+417,2022-01-27,América,Brasil,Ciudad_17,Hogar,Cama,Tienda,Vendedor_13,14,358.97,9.82,317.99,7,Efectivo,2022,Agosto,Jueves,3.2715,-12.1618,4532.068044,80.20804399999906
+418,2021-11-16,Asia,Corea del Sur,Ciudad_13,Electrónica,Televisor,Tienda,Vendedor_8,4,298.78,21.28,234.29,6,Tarjeta,2021,Febrero,Miércoles,11.1775,80.6661,940.798464,3.638463999999999
+419,2023-12-11,América,Argentina,Ciudad_7,Alimentos,Leche,Online,Vendedor_6,7,506.81,21.56,394.99,2,Efectivo,2023,Septiembre,Lunes,1.4743,6.211,2782.792348,17.862347999999656
+420,2022-08-06,África,Sudáfrica,Ciudad_22,Hogar,Silla,Tienda,Vendedor_9,37,633.51,4.32,479.35,1,Tarjeta,2022,Junio,Sábado,27.8601,24.1751,22427.267615999997,4691.317615999997
+421,2022-07-25,América,México,Ciudad_3,Electrónica,Laptop,Tienda,Vendedor_4,6,413.24,19.16,346.69,6,Transferencia,2022,Junio,Miércoles,34.7096,-53.3232,2004.379296,-75.7607039999998
+422,2023-04-11,África,Nigeria,Ciudad_15,Hogar,Cama,Tienda,Vendedor_2,44,455.79,16.49,336.92,8,Transferencia,2023,Noviembre,Miércoles,-37.9532,94.2691,16747.730076,1923.2500759999984
+423,2022-12-01,Europa,Alemania,Ciudad_4,Ropa,Camisa,Tienda,Vendedor_1,33,696.05,23.52,489.57,10,Efectivo,2022,Marzo,Sábado,-2.5287,-65.2244,17567.188319999997,1411.378319999998
+424,2023-07-25,Asia,Japón,Ciudad_9,Hogar,Cama,Distribuidor,Vendedor_4,51,49.06,8.78,35.95,9,Efectivo,2023,Noviembre,Jueves,-48.8987,-13.5394,2282.379132,448.929132
+425,2021-12-12,Europa,Alemania,Ciudad_11,Juguetes,Auto de juguete,Online,Vendedor_15,60,728.07,5.24,609.89,10,Transferencia,2021,Noviembre,Martes,-11.2994,-46.8725,41395.14792,4801.747920000002
+426,2021-04-05,América,Argentina,Ciudad_29,Juguetes,Auto de juguete,Tienda,Vendedor_15,14,223.29,22.87,152.61,6,Efectivo,2021,Marzo,Miércoles,49.2934,20.8208,2411.130078,274.5900780000002
+427,2021-09-19,África,Marruecos,Ciudad_14,Electrónica,Laptop,Tienda,Vendedor_2,69,439.64,0.09,385.01,8,Transferencia,2021,Abril,Viernes,-43.5705,-3.5394,30307.858356,3742.168356000002
+428,2022-02-01,Asia,China,Ciudad_20,Electrónica,Auriculares,Distribuidor,Vendedor_9,35,295.0,13.9,177.17,8,Efectivo,2022,Abril,Miércoles,10.1027,73.7746,8889.825,2688.875000000001
+429,2023-11-22,Europa,Francia,Ciudad_23,Juguetes,Puzzle,Online,Vendedor_3,34,380.68,23.55,214.54,3,Efectivo,2023,Febrero,Jueves,-25.6357,49.7863,9895.01524,2600.655240000001
+430,2021-01-17,África,Egipto,Ciudad_15,Ropa,Zapatos,Distribuidor,Vendedor_9,2,532.81,21.75,412.25,9,Efectivo,2021,Junio,Domingo,3.2775,49.9371,833.8476499999999,9.34764999999993
+431,2021-09-10,Europa,Italia,Ciudad_18,Juguetes,Puzzle,Online,Vendedor_1,65,722.21,15.46,570.95,4,Transferencia,2021,Febrero,Domingo,-18.3721,97.2975,39686.16171,2574.4117100000003
+432,2022-03-26,Asia,Japón,Ciudad_27,Electrónica,Auriculares,Tienda,Vendedor_8,56,108.4,25.99,91.97,3,Efectivo,2022,Febrero,Viernes,-15.4394,24.909,4492.70304,-657.6169599999994
+433,2021-09-26,Asia,China,Ciudad_4,Hogar,Cama,Tienda,Vendedor_10,77,785.53,10.19,631.2,2,Efectivo,2021,Marzo,Lunes,16.873,-45.4266,54322.305961,5719.905960999997
+434,2021-04-23,Asia,China,Ciudad_23,Ropa,Zapatos,Distribuidor,Vendedor_4,15,510.0,3.63,278.39,7,Efectivo,2021,Julio,Miércoles,-38.8015,-50.4691,7372.305,3196.455000000001
+435,2021-03-07,América,EEUU,Ciudad_24,Ropa,Camisa,Tienda,Vendedor_8,63,590.47,1.21,476.55,5,Efectivo,2021,Julio,Lunes,3.4928,-26.7972,36749.494719,6726.844719000001
+436,2021-03-06,Europa,Francia,Ciudad_20,Ropa,Pantalón,Online,Vendedor_2,77,553.31,21.42,465.0,5,Transferencia,2021,Junio,Miércoles,-13.0448,-26.0898,33478.90684599999,-2326.0931540000092
+437,2021-01-20,América,Brasil,Ciudad_17,Hogar,Lámpara,Distribuidor,Vendedor_5,30,300.51,4.12,270.32,7,Transferencia,2021,Julio,Domingo,-13.9394,-87.4976,8643.869639999999,534.2696399999995
+438,2022-10-08,África,Marruecos,Ciudad_6,Ropa,Camisa,Tienda,Vendedor_2,60,602.11,17.93,406.77,5,Tarjeta,2022,Agosto,Sábado,-8.1982,50.6514,29649.100619999997,5242.90062
+439,2021-11-08,Europa,Italia,Ciudad_16,Hogar,Silla,Distribuidor,Vendedor_15,41,517.61,17.96,337.81,8,Transferencia,2021,Enero,Domingo,-12.8846,-5.9227,17410.537004,3560.3270040000007
+440,2021-01-23,Europa,España,Ciudad_23,Alimentos,Leche,Online,Vendedor_13,69,364.51,26.76,315.81,3,Efectivo,2021,Abril,Jueves,-16.4669,-24.6484,18420.731556,-3370.1584440000006
+441,2023-01-13,América,EEUU,Ciudad_1,Hogar,Lámpara,Tienda,Vendedor_7,38,42.59,0.02,22.81,3,Tarjeta,2023,Abril,Jueves,40.3167,19.3616,1618.0963160000001,751.3163160000001
+442,2022-03-28,África,Sudáfrica,Ciudad_27,Ropa,Zapatos,Tienda,Vendedor_7,39,777.49,22.57,543.95,4,Tarjeta,2022,Marzo,Martes,-29.3676,-5.3322,23478.409773,2264.3597729999965
+443,2021-05-06,África,Marruecos,Ciudad_23,Ropa,Camisa,Online,Vendedor_7,34,708.99,6.94,356.17,10,Transferencia,2021,Julio,Jueves,-20.4115,-87.04,22432.727196,10322.947196
+444,2023-07-22,África,Sudáfrica,Ciudad_1,Juguetes,Pelota,Tienda,Vendedor_15,47,788.99,22.52,512.43,8,Tarjeta,2023,Marzo,Sábado,-24.8227,-34.3084,28731.544244,4647.3342440000015
+445,2023-11-18,Europa,España,Ciudad_19,Hogar,Cama,Tienda,Vendedor_2,58,741.02,22.32,586.38,4,Transferencia,2023,Octubre,Viernes,15.3664,48.7528,33386.21148799999,-623.8285120000073
+446,2022-04-27,Asia,India,Ciudad_18,Alimentos,Leche,Tienda,Vendedor_3,8,67.0,20.35,36.29,9,Tarjeta,2022,Julio,Viernes,0.5615,16.0812,426.924,136.60399999999998
+447,2021-02-21,América,Argentina,Ciudad_22,Alimentos,Queso,Online,Vendedor_15,29,7.06,20.66,4.68,2,Tarjeta,2021,Abril,Miércoles,-37.5572,-17.6967,162.44071599999998,26.72071599999998
+448,2023-01-08,Asia,Corea del Sur,Ciudad_25,Juguetes,Pelota,Distribuidor,Vendedor_11,51,249.48,16.5,144.11,1,Tarjeta,2023,Noviembre,Sábado,34.4819,-82.3163,10624.1058,3274.495799999999
+449,2021-12-14,África,Sudáfrica,Ciudad_28,Hogar,Mesa,Distribuidor,Vendedor_6,34,613.53,11.27,536.2,1,Transferencia,2021,Febrero,Miércoles,-30.4483,-95.843,18509.095746,278.29574599999614
+450,2022-02-12,Europa,España,Ciudad_19,Electrónica,Televisor,Distribuidor,Vendedor_11,39,426.48,29.58,318.47,5,Tarjeta,2022,Diciembre,Domingo,-10.9926,79.5055,11712.761424,-707.5685760000015
+451,2022-03-16,África,Egipto,Ciudad_27,Alimentos,Leche,Distribuidor,Vendedor_8,16,492.52,1.76,304.53,4,Tarjeta,2022,Agosto,Sábado,4.5942,-36.4435,7741.626368,2869.1463680000006
+452,2023-06-27,América,México,Ciudad_3,Electrónica,Smartphone,Online,Vendedor_14,14,264.35,21.48,133.63,9,Transferencia,2023,Septiembre,Martes,5.0418,85.9141,2905.9466800000005,1035.1266800000005
+453,2021-08-27,América,México,Ciudad_23,Juguetes,Pelota,Online,Vendedor_11,32,401.19,28.09,253.06,3,Tarjeta,2021,Marzo,Domingo,-19.4598,72.3611,9231.863328000001,1133.9433280000012
+454,2021-01-21,África,Marruecos,Ciudad_16,Hogar,Mesa,Tienda,Vendedor_2,40,351.85,28.77,211.34,7,Tarjeta,2021,Marzo,Domingo,-22.416,-41.6527,10024.910199999998,1571.310199999998
+455,2023-11-13,Europa,Francia,Ciudad_14,Ropa,Camisa,Tienda,Vendedor_1,20,575.75,9.03,444.14,2,Efectivo,2023,Junio,Domingo,4.9313,-90.7114,10475.1955,1592.3955000000005
+456,2021-10-17,Asia,Japón,Ciudad_26,Hogar,Cama,Online,Vendedor_10,5,371.05,23.34,296.32,5,Transferencia,2021,Noviembre,Sábado,9.5353,47.6036,1422.2346499999999,-59.365350000000035
+457,2023-09-09,África,Egipto,Ciudad_12,Ropa,Chaqueta,Tienda,Vendedor_8,41,412.77,17.25,216.25,4,Efectivo,2023,Septiembre,Sábado,-44.3284,-1.676,14004.254175,5138.004175
+458,2022-07-02,África,Sudáfrica,Ciudad_18,Electrónica,Laptop,Distribuidor,Vendedor_12,25,215.39,11.22,129.3,3,Tarjeta,2022,Abril,Lunes,35.0303,24.1668,4780.58105,1548.0810499999993
+459,2023-11-19,África,Nigeria,Ciudad_24,Alimentos,Queso,Distribuidor,Vendedor_15,31,669.16,24.06,393.77,6,Efectivo,2023,Marzo,Sábado,-14.4564,-4.3528,15752.963224000001,3546.093224000002
+460,2022-01-17,Europa,Francia,Ciudad_24,Alimentos,Queso,Online,Vendedor_8,18,677.03,20.01,375.54,9,Transferencia,2022,Agosto,Domingo,48.6115,-18.7019,9748.013345999998,2988.2933459999977
+461,2021-12-17,América,Brasil,Ciudad_5,Ropa,Pantalón,Online,Vendedor_10,51,487.1,8.09,397.65,6,Transferencia,2021,Abril,Domingo,-34.9628,-83.4865,22832.374110000004,2552.2241100000065
+462,2021-05-25,América,Brasil,Ciudad_15,Electrónica,Smartphone,Tienda,Vendedor_1,2,432.41,25.62,247.39,4,Tarjeta,2021,Septiembre,Miércoles,-2.2458,-47.4399,643.2531160000001,148.47311600000012
+463,2023-11-18,África,Sudáfrica,Ciudad_9,Electrónica,Laptop,Tienda,Vendedor_10,41,666.04,10.06,462.37,10,Efectivo,2023,Octubre,Martes,-3.1164,0.2634,24560.491415999997,5603.321415999995
+464,2021-05-12,Europa,Francia,Ciudad_27,Juguetes,Pelota,Tienda,Vendedor_8,35,640.55,9.62,542.59,1,Tarjeta,2021,Febrero,Lunes,2.381,70.4197,20262.51815,1271.8681499999984
+465,2022-01-18,África,Nigeria,Ciudad_30,Electrónica,Smartphone,Tienda,Vendedor_8,6,664.6,23.21,596.87,7,Transferencia,2022,Julio,Jueves,-47.9048,-16.2508,3062.0780400000003,-519.1419599999999
+466,2022-01-17,Asia,Corea del Sur,Ciudad_12,Electrónica,Laptop,Online,Vendedor_2,63,719.67,18.63,432.59,5,Efectivo,2022,Mayo,Lunes,-1.1887,-95.2481,36892.515177,9639.345177000003
+467,2022-05-07,Asia,Corea del Sur,Ciudad_28,Ropa,Zapatos,Online,Vendedor_15,43,665.04,28.67,460.42,5,Efectivo,2022,Julio,Miércoles,-34.5102,-8.0877,20398.040376,599.9803759999995
+468,2023-04-25,África,Egipto,Ciudad_23,Juguetes,Auto de juguete,Tienda,Vendedor_1,73,139.57,29.04,74.53,5,Tarjeta,2023,Agosto,Miércoles,29.8442,-87.2123,7229.837655999999,1789.1476559999983
+469,2022-09-05,Asia,India,Ciudad_22,Juguetes,Puzzle,Online,Vendedor_13,32,727.49,17.72,504.94,1,Tarjeta,2022,Diciembre,Jueves,48.515,34.585,19154.520704,2996.4407039999987
+470,2021-07-15,África,Egipto,Ciudad_25,Electrónica,Televisor,Online,Vendedor_11,20,382.21,2.18,254.52,6,Efectivo,2021,Enero,Viernes,-49.1708,-6.6754,7477.556439999999,2387.156439999999
+471,2022-02-19,Europa,Alemania,Ciudad_16,Hogar,Mesa,Distribuidor,Vendedor_2,27,379.75,11.87,282.13,8,Efectivo,2022,Marzo,Jueves,17.5284,45.5231,9036.189225,1418.6792249999999
+472,2023-01-28,África,Sudáfrica,Ciudad_19,Hogar,Silla,Online,Vendedor_6,58,788.18,1.92,443.34,5,Transferencia,2023,Octubre,Martes,15.3227,-59.0113,44836.722751999994,19123.002751999997
+473,2023-08-18,América,México,Ciudad_4,Ropa,Camisa,Distribuidor,Vendedor_12,11,205.15,29.3,102.76,10,Efectivo,2023,Septiembre,Martes,39.9867,-91.2848,1595.4515500000002,465.0915500000001
+474,2022-02-04,Europa,España,Ciudad_14,Alimentos,Queso,Tienda,Vendedor_4,39,481.75,11.94,358.53,2,Efectivo,2022,Septiembre,Miércoles,37.4149,-72.6439,16544.932950000002,2562.262950000004
+475,2021-03-07,América,EEUU,Ciudad_15,Alimentos,Cereal,Online,Vendedor_11,14,440.45,17.97,306.7,3,Efectivo,2021,Diciembre,Domingo,32.1644,-31.5205,5058.21589,764.4158900000002
+476,2023-08-01,África,Marruecos,Ciudad_17,Juguetes,Puzzle,Tienda,Vendedor_9,34,404.51,8.2,234.19,1,Efectivo,2023,Abril,Jueves,30.7413,94.512,12625.566120000001,4663.106120000001
+477,2021-05-09,Europa,Italia,Ciudad_25,Hogar,Silla,Online,Vendedor_12,22,289.11,1.8,181.5,6,Transferencia,2021,Septiembre,Jueves,-35.3178,72.5234,6245.93244,2252.9324399999996
+478,2023-10-23,Europa,Alemania,Ciudad_1,Alimentos,Pan,Distribuidor,Vendedor_8,55,467.05,20.05,317.13,5,Tarjeta,2023,Noviembre,Jueves,29.7508,-77.1533,20537.356125,3095.206124999997
+479,2021-03-24,África,Sudáfrica,Ciudad_8,Hogar,Lámpara,Distribuidor,Vendedor_5,24,434.97,20.89,231.35,8,Efectivo,2021,Enero,Sábado,-2.8925,82.0568,8258.514408000001,2706.1144080000013
+480,2023-05-09,América,Brasil,Ciudad_26,Hogar,Lámpara,Online,Vendedor_10,57,163.22,5.72,130.02,10,Transferencia,2023,Abril,Domingo,5.7071,90.0174,8771.377512,1360.2375119999988
+481,2021-08-07,África,Egipto,Ciudad_3,Electrónica,Laptop,Online,Vendedor_9,18,98.51,25.03,85.68,4,Efectivo,2021,Junio,Sábado,-30.8853,52.6626,1329.3530460000002,-212.88695400000006
+482,2021-02-14,África,Nigeria,Ciudad_1,Ropa,Pantalón,Online,Vendedor_4,28,656.47,17.78,367.3,4,Efectivo,2021,Julio,Martes,32.2619,58.5303,15112.989752000001,4828.589752000002
+483,2021-10-22,Europa,España,Ciudad_7,Hogar,Lámpara,Online,Vendedor_5,22,613.83,26.55,385.78,7,Efectivo,2021,Enero,Lunes,-4.7955,84.3478,9918.87897,1431.71897
+484,2023-11-26,África,Marruecos,Ciudad_13,Ropa,Zapatos,Online,Vendedor_1,34,786.77,23.68,631.97,5,Tarjeta,2023,Julio,Domingo,17.7157,42.147,20415.737376,-1071.2426239999986
+485,2021-06-05,África,Nigeria,Ciudad_6,Hogar,Lámpara,Tienda,Vendedor_4,29,771.69,28.6,606.92,10,Transferencia,2021,Abril,Domingo,-30.0595,-42.6692,15978.613140000001,-1622.066859999999
+486,2023-01-04,Asia,China,Ciudad_29,Electrónica,Smartphone,Tienda,Vendedor_12,16,295.06,3.02,161.41,10,Efectivo,2023,Octubre,Martes,-48.8034,-34.2331,4578.387008,1995.8270079999998
+487,2023-10-06,Asia,Japón,Ciudad_12,Alimentos,Leche,Tienda,Vendedor_9,24,175.41,9.62,137.96,7,Efectivo,2023,Octubre,Sábado,-7.6394,-88.364,3804.8533920000004,493.8133920000005
+488,2021-05-21,Asia,India,Ciudad_17,Ropa,Chaqueta,Online,Vendedor_15,22,201.4,24.01,140.27,10,Tarjeta,2021,Agosto,Martes,2.7843,94.2963,3366.9649200000003,281.0249200000003
+489,2023-10-09,África,Nigeria,Ciudad_15,Electrónica,Televisor,Online,Vendedor_6,59,69.33,3.85,53.89,4,Transferencia,2023,Junio,Lunes,-12.4494,64.78,3932.9869049999998,753.4769049999995
+490,2021-12-04,Europa,Francia,Ciudad_19,Hogar,Silla,Distribuidor,Vendedor_9,11,85.13,4.52,71.66,4,Efectivo,2021,Febrero,Domingo,23.8735,-97.5503,894.1033639999999,105.84336399999995
+491,2022-01-17,Europa,Francia,Ciudad_8,Hogar,Cama,Tienda,Vendedor_13,28,650.39,17.09,535.67,4,Tarjeta,2022,Junio,Miércoles,40.2551,47.3433,15098.673771999998,99.91377199999988
+492,2022-07-03,América,EEUU,Ciudad_4,Juguetes,Auto de juguete,Online,Vendedor_11,70,442.26,28.9,267.21,7,Transferencia,2022,Febrero,Lunes,41.8688,53.646,22011.280200000005,3306.5802000000076
+493,2023-02-09,América,Brasil,Ciudad_17,Juguetes,Puzzle,Online,Vendedor_12,9,598.76,24.08,426.13,10,Transferencia,2023,Octubre,Viernes,-37.6775,-68.7549,4091.207328,256.0373279999999
+494,2021-11-20,África,Sudáfrica,Ciudad_21,Alimentos,Pan,Online,Vendedor_1,40,434.11,3.81,300.38,5,Tarjeta,2021,Diciembre,Miércoles,34.4418,-84.9536,16702.81636,4687.61636
+495,2023-10-21,Asia,India,Ciudad_2,Alimentos,Pan,Distribuidor,Vendedor_15,7,49.56,9.64,29.4,7,Efectivo,2023,Octubre,Jueves,26.585,-48.4054,313.476912,107.67691200000004
+496,2022-09-15,África,Sudáfrica,Ciudad_5,Juguetes,Muñeca,Tienda,Vendedor_14,66,327.06,28.88,182.47,7,Efectivo,2022,Agosto,Martes,-36.448,87.2392,15351.934752000001,3308.9147520000006
+497,2023-07-08,Asia,Corea del Sur,Ciudad_29,Alimentos,Cereal,Online,Vendedor_2,71,363.48,22.39,213.51,3,Transferencia,2023,Mayo,Martes,-4.5347,20.6981,20028.874788,4869.664788000002
+498,2023-04-20,África,Nigeria,Ciudad_20,Hogar,Silla,Distribuidor,Vendedor_11,6,310.56,29.21,223.9,6,Efectivo,2023,Abril,Lunes,45.9253,-66.2193,1319.072544,-24.327455999999984
+499,2023-06-05,América,Argentina,Ciudad_9,Electrónica,Smartphone,Tienda,Vendedor_8,75,467.69,26.86,289.27,9,Tarjeta,2023,Enero,Martes,3.7851,-60.7849,25655.134950000003,3959.8849500000033
+500,2023-10-02,Asia,India,Ciudad_10,Hogar,Silla,Tienda,Vendedor_10,55,66.2,11.36,59.54,9,Efectivo,2023,Septiembre,Martes,39.6836,-34.648,3227.3824,-47.31759999999986
