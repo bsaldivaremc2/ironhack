@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Custom Form → Make.com Webhook</title>
+</head>
+<body>
+  <h2>Contact Form</h2>
+  <form id="myForm">
+    <label>Webhook URL (Make.com):</label><br>
+    <input type="url" id="webhookUrl" name="webhookUrl" placeholder="https://hook.make.com/..." required style="width: 100%;"><br><br>
+
+    <label>Name:</label><br>
+    <input type="text" name="name" required><br><br>
+    
+    <label>Email:</label><br>
+    <input type="email" name="email" required><br><br>
+
+    <label>Message:</label><br>
+    <textarea name="message" required></textarea><br><br>
+
+    <button type="submit">Send</button>
+  </form>
+
+  <p id="status"></p>
+
+  <script>
+    const form = document.getElementById('myForm');
+    const status = document.getElementById('status');
+    const webhookInput = document.getElementById('webhookUrl');
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const data = Object.fromEntries(new FormData(form));
+      const webhookUrl = webhookInput.value.trim();
+
+      if (!webhookUrl || !webhookUrl.startsWith("https://")) {
+        status.textContent = "⚠️ Please enter a valid webhook URL.";
+        return;
+      }
+
+      try {
+        const res = await fetch(webhookUrl, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(data)
+        });
+
+        if (res.ok) {
+          status.textContent = "✅ Sent successfully!";
+          form.reset();
+        } else {
+          status.textContent = "❌ Failed to send.";
+        }
+      } catch (err) {
+        console.error(err);
+        status.textContent = "⚠️ Error sending data.";
+      }
+    });
+  </script>
+</body>
+</html>
